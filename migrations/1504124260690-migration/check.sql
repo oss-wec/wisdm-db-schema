@@ -1,0 +1,2 @@
+-- 1504124260690-migration/check.sql
+-- optionally check your migration

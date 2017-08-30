@@ -1,0 +1,1228 @@
+common_name,species_name,alpha_code,genus,species,gbif_key,t_phylum,t_class,t_order,t_family,grouping,ndow_code
+threadfin shad,Dorosoma petenense,,Dorosoma,petenense,2413553,Chordata,Actinopterygii,Clupeiformes,Clupeidae,misc_fish,357
+American gizzard shad,Dorosoma cepedianum,,Dorosoma,cepedianum,2413541,Chordata,Actinopterygii,Clupeiformes,Clupeidae,misc_fish,1274
+bridgelip sucker,Catostomus columbianus,,Catostomus,columbianus,2359027,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,197
+chiselmouth,Acrocheilus alutaceus,,Acrocheilus,alutaceus,2367726,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,4
+chub (unknown),Gila sp.,,Gila,sp.,2360060,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,469
+common carp,Cyprinus carpio,,Cyprinus,carpio,4286975,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,315
+desert sucker,Catostomus clarkii,,Catostomus,clarkii,2359050,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,194
+fathead minnow,Pimephales promelas,,Pimephales,promelas,2367742,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,812
+golden shiner,Notemigonus crysoleucas,,Notemigonus,crysoleucas,2363714,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,688
+goldfish,Carassius auratus,,Carassius,auratus,4286942,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,165
+Lahontan redside,Richardsonius egregius,,Richardsonius,egregius,2362394,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,997
+Lahontan speckled dace,Rhinichthys osculus robustus,,Rhinichthys,osculus,4287011,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,986
+largescale sucker,Catostomus macrocheilus,,Catostomus,macrocheilus,2359034,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,199
+Little Colorado spinedace,Lepidomeda vittata,,Lepidomeda,vittata,2361905,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,564
+mountain sucker,Catostomus platyrhynchus,,Catostomus,platyrhynchus,2359047,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,200
+northern pikeminnow,Ptychocheilus oregonensis,,Ptychocheilus,oregonensis,5205686,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,879
+red shiner,Cyprinella lutrensis,,Cyprinella,lutrensis,5207666,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,309
+redside shiner,Richardsonius balteatus,,Richardsonius,balteatus,2362399,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,996
+roundtail chub,Gila robusta,,Gila,robusta,2360128,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,464
+Sacramento blackfish,Orthodon microlepidotus,,Orthodon,microlepidotus,5205970,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,731
+speckled dace,Rhinichthys osculus,,Rhinichthys,osculus,2359791,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,980
+speckled dace (unknown),Rhinichthys sp.,,Rhinichthys,sp.,2359788,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,993
+sucker (unknown),Catostomus sp.,,Catostomus,sp.,2359013,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,201
+Tahoe sucker,Catostomus tahoensis,,Catostomus,tahoensis,2359045,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,203
+tui chub,Gila bicolor,,Gila,bicolor,2360085,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,447
+Utah chub,Gila atraria,,Gila,atraria,2360064,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,446
+Virgin River roundtail chub,Gila robusta seminuda,,Gila,robusta,4286909,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,466
+Snake River speckled dace,Rhinichthys osculus ssp. ?,,Rhinichthys,osculus,2359791,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,1270
+Colorado River speckled dace,Rhinichthys osculus yarrowi,,Rhinichthys,osculus,2359791,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,1271
+Gila chub,Gila intermedia,,Gila,intermedia,2360136,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,1275
+headwater chub,Gila nigra,,Gila,nigra,2360137,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,1276
+bluehead sucker,Catostomus discobolus,,Catostomus,discobolus,4286866,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,1283
+Moapa speckled dace,Rhinichthys osculus moapae,,Rhinichthys,osculus,6167273,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,983
+Ash Meadows speckled dace,Rhinichthys osculus nevadensis,,Rhinichthys,osculus,6167271,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,984
+Wall Canyon sucker,Catostomus sp. 1,,Catostomus,sp.,2359013,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,202
+Independence Valley tui chub,Gila bicolor isolata,,Gila,bicolor,6167052,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,450
+Monitor Valley speckled dace,Rhinichthys osculus ssp. 5,,Rhinichthys,osculus,2359791,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,989
+Little Fish Lake Valley tui chub,Gila bicolor ssp. 6,,Gila,bicolor,2360085,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,457
+Railroad Valley tui chub,Gila bicolor ssp. 7,,Gila,bicolor,2360085,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,458
+cui-ui,Chasmistes cujus,,Chasmistes,cujus,2359093,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,223
+Charnock Springs tui chub,Gila bicolor ssp. 10,,Gila,bicolor,2360085,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,453
+Warner sucker,Catostomus warnerensis,,Catostomus,warnerensis,2359059,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,204
+dickcissel,Spiza americana,,Spiza,americana,2490363,Chordata,Aves,Passeriformes,Cardinalidae,passerine,1077
+Clover Valley speckled dace,Rhinichthys osculus oligoporus,,Rhinichthys,osculus,6167276,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,985
+Big Smoky Valley speckled dace,Rhinichthys osculus lariversi,,Rhinichthys,osculus,6167268,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,981
+Virgin River chub (Muddy River pop.),Gila seminuda pop. 2,,Gila,seminuda,2360105,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,468
+Virgin River spinedace,Lepidomeda mollispinis mollispinis,,Lepidomeda,mollispinis,6166781,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,562
+White River speckled dace,Rhinichthys osculus ssp. 7,,Rhinichthys,osculus,2359791,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,991
+longnose dace,Rhinichthys cataractae,,Rhinichthys,cataractae,2359811,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,979
+White River spinedace,Lepidomeda albivallis,,Lepidomeda,albivallis,2361898,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,559
+Pahranagat roundtail chub,Gila robusta jordani,,Gila,robusta,4286914,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,465
+Big Smoky Valley tui chub,Gila bicolor ssp. 8,,Gila,bicolor,2360085,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,459
+desert dace,Eremichthys acros,,Eremichthys,acros,2362069,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,393
+woundfin,Plagopterus argentissimus,,Plagopterus,argentissimus,2366711,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,830
+Cowhead Lake tui chub,Gila bicolor vaccaceps,,Gila,bicolor,6167051,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,461
+White River desert sucker,Catostomus clarkii intermedius,,Catostomus,clarkii,2359050,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,195
+Virgin River chub,Gila seminuda,,Gila,seminuda,2360105,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,467
+Meadow Valley speckled dace,Rhinichthys osculus ssp. 11,,Rhinichthys,osculus,2359791,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,988
+Fish Creek Springs tui chub,Gila bicolor euchila,,Gila,bicolor,6167050,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,448
+bonytail chub,Gila elegans,,Gila,elegans,2360109,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,463
+Moapa dace,Moapa coriacea,,Moapa,coriacea,2362734,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,639
+Lahontan Lake tui chub,Gila bicolor pectinifer,,Gila,bicolor,2360085,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,452
+Pahranagat speckled dace,Rhinichthys osculus velifer,,Rhinichthys,osculus,6167272,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,992
+Hot Creek Valley tui chub,Gila bicolor ssp. 5,,Gila,bicolor,2360085,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,456
+Big Spring spinedace,Lepidomeda mollispinis pratensis,,Lepidomeda,mollispinis,6166782,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,563
+Newark Valley tui chub,Gila bicolor newarkensis,,Gila,bicolor,6167049,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,451
+Utah sucker,Catostomus ardens,,Catostomus,ardens,2359038,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,193
+Alvord chub,Gila alvordensis,,Gila,alvordensis,2360125,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,445
+Dixie Valley tui chub,Gila bicolor ssp. 9,,Gila,bicolor,2360085,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,460
+flannelmouth sucker,Catostomus latipinnis,,Catostomus,latipinnis,2359036,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,198
+northern leatherside chub,Lepidomeda copei,,Lepidomeda,copei,2361899,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,560
+relict dace,Relictus solitarius,,Relictus,solitarius,2365826,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,978
+Meadow Valley Wash desert sucker,Catostomus clarkii ssp. 2,,Catostomus,clarkii,2359050,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,196
+razorback sucker,Xyrauchen texanus,,Xyrauchen,texanus,2359095,Chordata,Actinopterygii,Cypriniformes,Catostomidae,ostariophysian,1241
+Sheldon tui chub,Gila bicolor eurysoma,,Gila,bicolor,6167047,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,449
+Duckwater Creek tui chub,Gila bicolor ssp. 3,,Gila,bicolor,2360085,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,454
+Independence Valley speckled dace,Rhinichthys osculus lethoporus,,Rhinichthys,osculus,6167275,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,982
+Oasis Valley speckled dace,Rhinichthys osculus ssp. 6,,Rhinichthys,osculus,2359791,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,990
+Diamond Valley speckled dace,Rhinichthys osculus ssp. 10,,Rhinichthys,osculus,2359791,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,987
+Fish Lake Valley tui chub,Gila bicolor ssp. 4,,Gila,bicolor,2360085,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,ostariophysian,455
+Amargosa pupfish,Cyprinodon nevadensis,,Cyprinodon,nevadensis,4284433,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,cyprinodontiformes,312
+guppy,Poecilia reticulata,,Poecilia,reticulata,2350050,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,cyprinodontiformes,857
+molly (unknown),Poecilia sp.,,Poecilia,sp.,2347767,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,cyprinodontiformes,858
+poolfish (unknown),Empetrichthys sp.,,Empetrichthys,sp.,2347667,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,cyprinodontiformes,376
+snowy owl,Nyctea scandiaca,,Nyctea,scandiaca,2497581,Chordata,Aves,Strigiformes,Strigidae,owls,694
+sailfin molly,Poecilia latipinna,,Poecilia,latipinna,5203752,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,cyprinodontiformes,855
+shortfin molly,Poecilia mexicana,,Poecilia,mexicana,8400492,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,cyprinodontiformes,856
+springfish,Crenichthys baileyi,,Crenichthys,baileyi,4284447,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,cyprinodontiformes,282
+western mosquitofish,Gambusia affinis,,Gambusia,affinis,2350580,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,cyprinodontiformes,436
+Gila topminnow,Poeciliopsis occidentalis,,Poeciliopsis,occidentalis,2350470,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,cyprinodontiformes,1280
+Sonoran topminnow,Poeciliopsis sonoriensis,,Poeciliopsis,sonoriensis,2350481,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,cyprinodontiformes,1289
+Hiko White River springfish,Crenichthys baileyi grandis,,Crenichthys,baileyi,6165511,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,cyprinodontiformes,285
+Moapa White River springfish,Crenichthys baileyi moapae,,Crenichthys,baileyi,6165509,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,cyprinodontiformes,286
+Preston White River springfish,Crenichthys baileyi albivallis,,Crenichthys,baileyi,6165510,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,cyprinodontiformes,283
+Warm Springs Amargosa pupfish,Cyprinodon nevadensis pectoralis,,Cyprinodon,nevadensis,6165253,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,cyprinodontiformes,314
+Ash Meadows Amargosa pupfish,Cyprinodon nevadensis mionectes,,Cyprinodon,nevadensis,6165250,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,cyprinodontiformes,313
+Moorman White River springfish,Crenichthys baileyi thermophilus,,Crenichthys,baileyi,6165512,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,cyprinodontiformes,287
+White River springfish,Crenichthys baileyi baileyi,,Crenichthys,baileyi,7193295,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,cyprinodontiformes,284
+Pahrump poolfish,Empetrichthys latos latos,,Empetrichthys,latos,7193294,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,cyprinodontiformes,375
+Devils Hole pupfish,Cyprinodon diabolis,,Cyprinodon,diabolis,2347934,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,cyprinodontiformes,311
+Railroad Valley springfish,Crenichthys nevadae,,Crenichthys,nevadae,2347713,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,cyprinodontiformes,288
+northern pike,Esox lucius,,Esox,lucius,2346633,Chordata,Actinopterygii,Esociformes,Esocidae,misc_fish,397
+black crappie,Pomoxis nigromaculatus,,Pomoxis,nigromaculatus,2394526,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,862
+blue tilapia,Oreochromis aureus,,Oreochromis,aureus,2372367,Chordata,Actinopterygii,Perciformes,Cichlidae,perciformes,719
+bluegill,Lepomis macrochirus,,Lepomis,macrochirus,2394503,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,571
+convict cichlid,Cichlasoma nigrofasciatum,,Cichlasoma,nigrofasciatum,2370026,Chordata,Actinopterygii,Perciformes,Cichlidae,perciformes,239
+crappie (unknown),Pomoxis sp.,,Pomoxis,sp.,2394525,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,863
+green sunfish,Lepomis cyanellus,,Lepomis,cyanellus,2394494,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,569
+largemouth bass,Micropterus salmoides,,Micropterus,salmoides,2391100,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,630
+pumpkinseed,Lepomis gibbosus,,Lepomis,gibbosus,2394486,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,570
+redear sunfish,Lepomis microlophus,,Lepomis,microlophus,2394501,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,572
+Sacramento perch,Archoplites interruptus,,Archoplites,interruptus,2394479,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,62
+smallmouth bass,Micropterus dolomieu,,Micropterus,dolomieu,5211250,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,628
+spotted bass,Micropterus punctulatus,,Micropterus,punctulatus,5211245,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,629
+striped bass,Morone saxatilis,,Morone,saxatilis,2394612,Chordata,Actinopterygii,Perciformes,Moronidae,perciformes,644
+sunfish (unknown),Lepomis sp.,,Lepomis,sp.,2394482,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,573
+tilapia (unknown),Tilapia sp.,,Tilapia,sp.,2370578,Chordata,Actinopterygii,Perciformes,Cichlidae,perciformes,1151
+walleye,Sander vitreus,,Sander,vitreus,2382172,Chordata,Actinopterygii,Perciformes,Percidae,perciformes,1013
+white bass,Morone chrysops,,Morone,chrysops,2394598,Chordata,Actinopterygii,Perciformes,Moronidae,perciformes,643
+white crappie,Pomoxis annularis,,Pomoxis,annularis,2394534,Chordata,Actinopterygii,Perciformes,Centrarchidae,perciformes,861
+yellow perch,Perca flavescens,,Perca,flavescens,2382004,Chordata,Actinopterygii,Perciformes,Percidae,perciformes,761
+brook trout,Salvelinus fontinalis,,Salvelinus,fontinalis,9216340,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,1010
+brown trout,Salmo trutta,,Salmo,trutta,8215487,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,1002
+bull trout,Salvelinus confluentus,,Salvelinus,confluentus,2351244,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,1008
+coho salmon,Oncorhynchus kisutch,,Oncorhynchus,kisutch,5204034,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,704
+cutthroat trout,Oncorhynchus clarkii,,Oncorhynchus,clarkii,5711980,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,700
+dolly varden,Salvelinus malma,,Salvelinus,malma,4284020,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,1011
+lake trout,Salvelinus namaycush,,Salvelinus,namaycush,2351327,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,1012
+rainbow trout,Oncorhynchus mykiss,,Oncorhynchus,mykiss,5204019,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,705
+sockeye salmon,Oncorhynchus nerka,,Oncorhynchus,nerka,5204039,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,709
+Lahontan cutthroat trout,Oncorhynchus clarkii henshawi,,Oncorhynchus,clarkii,5711984,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,702
+inland redband trout,Oncorhynchus mykiss newberrii,,Oncorhynchus,mykiss,5204019,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,706
+Yellowstone cutthroat trout,Oncorhynchus clarkii bouvieri,,Oncorhynchus,clarkii,5711990,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,701
+bull trout  (Jarbidge River pop.),Salvelinus confluentus pop. 4,,Salvelinus,confluentus,2351244,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,1009
+Bonneville cutthroat trout,Oncorhynchus clarkii utah,,Oncorhynchus,clarkii,5711989,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,703
+Warner Valley redband trout,Oncorhynchus mykiss pop. 4,,Oncorhynchus,mykiss,5204019,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,707
+mountain whitefish,Prosopium williamsoni,,Prosopium,williamsoni,2351530,Chordata,Actinopterygii,Salmoniformes,Salmonidae,salmonid,874
+black sculpin,Cottus baileyi,,Cottus,baileyi,2334175,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,misc_fish,274
+mottled sculpin,Cottus bairdi,,Cottus,bairdi,2334131,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,misc_fish,275
+Paiute sculpin,Cottus beldingii,,Cottus,beldingii,2334123,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,misc_fish,276
+sculpin (unknown),Cottus sp.,,Cottus,sp.,2334066,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,misc_fish,278
+shorthead sculpin,Cottus confusus,,Cottus,confusus,2334156,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,misc_fish,277
+White River sculpin,Cottus sp. 3,,Cottus,sp.,2334066,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,misc_fish,279
+black bullhead,Ameiurus melas,,Ameiurus,melas,2340977,Chordata,Actinopterygii,Siluriformes,Ictaluridae,ostariophysian,21
+brown bullhead,Ameiurus nebulosus,,Ameiurus,nebulosus,2340989,Chordata,Actinopterygii,Siluriformes,Ictaluridae,ostariophysian,23
+bullhead (unknown),Ameiurus sp.,,Ameiurus,sp.,2340965,Chordata,Actinopterygii,Siluriformes,Ictaluridae,ostariophysian,24
+channel catfish,Ictalurus punctatus,,Ictalurus,punctatus,5202520,Chordata,Actinopterygii,Siluriformes,Ictaluridae,ostariophysian,509
+hypostomus (unknown),Hypostomus sp.,,Hypostomus,sp.,2339615,Chordata,Actinopterygii,Siluriformes,Loricariidae,ostariophysian,506
+suckermouth catfish,Hypostomus plecostomus,,Hypostomus,plecostomus,5202178,Chordata,Actinopterygii,Siluriformes,Loricariidae,ostariophysian,505
+white catfish,Ameiurus catus,,Ameiurus,catus,2340972,Chordata,Actinopterygii,Siluriformes,Ictaluridae,ostariophysian,20
+yellow bullhead,Ameiurus natalis,,Ameiurus,natalis,2340969,Chordata,Actinopterygii,Siluriformes,Ictaluridae,ostariophysian,22
+boreal toad,Anaxyrus boreas boreas,,Anaxyrus,boreas,7193814,Chordata,Amphibia,Anura,Bufonidae,amphibian,112
+bullfrog,Lithobates catesbeianus,,Lithobates,catesbeianus,2427091,Chordata,Amphibia,Anura,Ranidae,amphibian,963
+California toad,Anaxyrus boreas halophilus,,Anaxyrus,boreas,6169916,Chordata,Amphibia,Anura,Bufonidae,amphibian,113
+Dixie Hot Springs toad,Anaxyrus sp. 1,,Anaxyrus,sp.,2422857,Chordata,Amphibia,Anura,Bufonidae,amphibian,119
+Fish Lake Valley toad,Anaxyrus sp. 2,,Anaxyrus,sp.,2422857,Chordata,Amphibia,Anura,Bufonidae,amphibian,120
+frog (unknown),Rana sp.,,Rana,sp.,2422253,Chordata,Amphibia,Anura,Ranidae,amphibian,970
+Great Basin spadefoot,Spea intermontana,,Spea,intermontana,2429791,Chordata,Amphibia,Anura,Scaphiopodidae,amphibian,1058
+Las Vegas leopard frog,Rana fisheri,,Rana,fisheri,2427130,Chordata,Amphibia,Anura,Ranidae,amphibian,964
+mountain yellow-legged frog,Rana muscosa,,Rana,muscosa,2426791,Chordata,Amphibia,Anura,Ranidae,amphibian,966
+Pacific chorus frog,Pseudacris regilla,,Pseudacris,regilla,2428132,Chordata,Amphibia,Anura,Hylidae,amphibian,877
+red-legged frog,Rana aurora,,Rana,aurora,2426808,Chordata,Amphibia,Anura,Ranidae,amphibian,962
+red-spotted toad,Anaxyrus punctatus,,Anaxyrus,punctatus,2422890,Chordata,Amphibia,Anura,Bufonidae,amphibian,117
+spotted frog,Rana pretiosa,,Rana,pretiosa,2426776,Chordata,Amphibia,Anura,Ranidae,amphibian,969
+toad (unknown),Anaxyrus sp.,,Anaxyrus,sp.,2422857,Chordata,Amphibia,Anura,Bufonidae,amphibian,118
+western toad,Anaxyrus boreas,,Anaxyrus,boreas,2422924,Chordata,Amphibia,Anura,Bufonidae,amphibian,111
+Woodhouses toad,Anaxyrus woodhousii,,Anaxyrus,woodhousii,2422865,Chordata,Amphibia,Anura,Bufonidae,amphibian,121
+Sierra chorus frog,Pseudacris sierra,,Pseudacris,sierra,2428151,Chordata,Amphibia,Anura,Hylidae,amphibian,1292
+Great Plains toad,Anaxyrus cognatus,,Anaxyrus,cognatus,2422882,Chordata,Amphibia,Anura,Bufonidae,amphibian,114
+northern leopard frog,Lithobates pipiens,,Lithobates,pipiens,2427185,Chordata,Amphibia,Anura,Ranidae,amphibian,968
+Arizona (southwestern) toad,Anaxyrus microscaphus,,Anaxyrus,microscaphus,2422911,Chordata,Amphibia,Anura,Bufonidae,amphibian,115
+relict leopard frog,Lithobates onca,,Lithobates,onca,2427106,Chordata,Amphibia,Anura,Ranidae,amphibian,967
+Amargosa toad,Anaxyrus nelsoni,,Anaxyrus,nelsoni,2422858,Chordata,Amphibia,Anura,Bufonidae,amphibian,116
+Columbia spotted frog,Rana luteiventris pop. 3,,Rana,luteiventris,2426785,Chordata,Amphibia,Anura,Ranidae,amphibian,965
+Sierra Nevada yellow-legged frog,Rana sierrae,,Rana,sierrae,2426754,Chordata,Amphibia,Anura,Ranidae,amphibian,1266
+tiger salamander,Ambystoma tigrinum,,Ambystoma,tigrinum,2431993,Chordata,Amphibia,Caudata,Ambystomatidae,amphibian,19
+black-shoulder kite,Elanus leucurus caerul,,Elanus,leucurus,2480367,Chordata,Aves,Accipitriformes,Accipitridae,raptor,368
+broad-winged hawk,Buteo platypterus,,Buteo,platypterus,2480538,Chordata,Aves,Accipitriformes,Accipitridae,raptor,127
+buteo (unknown),Buteo sp.,,Buteo,sp.,2480517,Chordata,Aves,Accipitriformes,Accipitridae,raptor,129
+California condor,Gymnogyps californianus,,Gymnogyps,californianus,2481920,Chordata,Aves,Accipitriformes,Cathartidae,raptor,482
+common black-hawk,Buteogallus anthracinus,,Buteogallus,anthracinus,2480651,Chordata,Aves,Accipitriformes,Accipitridae,raptor,131
+Coopers hawk,Accipiter cooperii,,Accipiter,cooperii,2480621,Chordata,Aves,Accipitriformes,Accipitridae,raptor,1
+Harlans hawk,Buteo jamaicensis harlani,,Buteo,jamaicensis,6178054,Chordata,Aves,Accipitriformes,Accipitridae,raptor,124
+Harriss hawk,Parabuteo unicinctus,,Parabuteo,unicinctus,2480410,Chordata,Aves,Accipitriformes,Accipitridae,raptor,746
+Mississippi kite,Ictinia mississippiensis,,Ictinia,mississippiensis,2480719,Chordata,Aves,Accipitriformes,Accipitridae,raptor,517
+northern harrier,Circus cyaneus,,Circus,cyaneus,2480487,Chordata,Aves,Accipitriformes,Accipitridae,raptor,241
+osprey,Pandion haliaetus,,Pandion,haliaetus,2480726,Chordata,Aves,Accipitriformes,Pandionidae,raptor,745
+red-shouldered hawk,Buteo lineatus,,Buteo,lineatus,2480529,Chordata,Aves,Accipitriformes,Accipitridae,raptor,126
+red-tailed hawk,Buteo jamaicensis,,Buteo,jamaicensis,2480542,Chordata,Aves,Accipitriformes,Accipitridae,raptor,123
+rough-legged hawk,Buteo lagopus,,Buteo,lagopus,2480524,Chordata,Aves,Accipitriformes,Accipitridae,raptor,125
+sharp-shinned hawk,Accipiter striatus,,Accipiter,striatus,2480612,Chordata,Aves,Accipitriformes,Accipitridae,raptor,3
+turkey vulture,Cathartes aura,,Cathartes,aura,2481930,Chordata,Aves,Accipitriformes,Cathartidae,raptor,181
+white-tailed kite,Elanus leucurus,,Elanus,leucurus,2480367,Chordata,Aves,Accipitriformes,Accipitridae,raptor,367
+zone-tailed hawk,Buteo albonotatus,,Buteo,albonotatus,2480541,Chordata,Aves,Accipitriformes,Accipitridae,raptor,122
+accipiter (unknown),Accipiter sp.,,Accipiter,sp.,2480577,Chordata,Aves,Accipitriformes,Accipitridae,raptor,1291
+Swainsons hawk,Buteo swainsoni,,Buteo,swainsoni,2480562,Chordata,Aves,Accipitriformes,Accipitridae,raptor,130
+golden eagle,Aquila chrysaetos,,Aquila,chrysaetos,2480506,Chordata,Aves,Accipitriformes,Accipitridae,raptor,60
+ferruginous hawk,Buteo regalis,,Buteo,regalis,2480566,Chordata,Aves,Accipitriformes,Accipitridae,raptor,128
+northern goshawk,Accipiter gentilis,,Accipiter,gentilis,2480589,Chordata,Aves,Accipitriformes,Accipitridae,raptor,2
+bald eagle,Haliaeetus leucocephalus,,Haliaeetus,leucocephalus,2480446,Chordata,Aves,Accipitriformes,Accipitridae,raptor,487
+American black duck,Anas rubripes,,Anas,rubripes,2498077,Chordata,Aves,Anseriformes,Anatidae,waterfowl,39
+American wigeon,Anas americana,,Anas,americana,2498154,Chordata,Aves,Anseriformes,Anatidae,waterfowl,32
+Barrows goldeneye,Bucephala islandica,,Bucephala,islandica,2498325,Chordata,Aves,Anseriformes,Anatidae,waterfowl,110
+black scoter,Melanitta nigra,,Melanitta,nigra,2498247,Chordata,Aves,Anseriformes,Anatidae,waterfowl,610
+black-bellied whistling-duck,Dendrocygna autumnalis,,Dendrocygna,autumnalis,2498393,Chordata,Aves,Anseriformes,Anatidae,waterfowl,319
+blue-winged teal,Anas discors,,Anas,discors,2498073,Chordata,Aves,Anseriformes,Anatidae,waterfowl,36
+brant,Branta bernicla,,Branta,bernicla,5232446,Chordata,Aves,Anseriformes,Anatidae,waterfowl,104
+bufflehead,Bucephala albeola,,Bucephala,albeola,2498329,Chordata,Aves,Anseriformes,Anatidae,waterfowl,108
+Canada goose,Branta canadensis,,Branta,canadensis,5232437,Chordata,Aves,Anseriformes,Anatidae,waterfowl,105
+canvasback,Aythya valisineria,,Aythya,valisineria,2498256,Chordata,Aves,Anseriformes,Anatidae,waterfowl,83
+cinnamon teal,Anas cyanoptera,,Anas,cyanoptera,2498139,Chordata,Aves,Anseriformes,Anatidae,waterfowl,35
+common goldeneye,Bucephala clangula,,Bucephala,clangula,2498326,Chordata,Aves,Anseriformes,Anatidae,waterfowl,109
+common merganser,Mergus merganser,,Mergus,merganser,2498370,Chordata,Aves,Anseriformes,Anatidae,waterfowl,619
+Eurasian wigeon,Anas penelope,,Anas,penelope,2498111,Chordata,Aves,Anseriformes,Anatidae,waterfowl,37
+fulvous whistling-duck,Dendrocygna bicolor,,Dendrocygna,bicolor,2498402,Chordata,Aves,Anseriformes,Anatidae,waterfowl,320
+gadwall,Anas strepera,,Anas,strepera,2498151,Chordata,Aves,Anseriformes,Anatidae,waterfowl,41
+graylag goose,Anser anser,,Anser,anser,2498036,Chordata,Aves,Anseriformes,Anatidae,waterfowl,47
+greater scaup,Aythya marila,,Aythya,marila,2498265,Chordata,Aves,Anseriformes,Anatidae,waterfowl,82
+greater white-fronted goose,Anser albifrons,,Anser,albifrons,2498017,Chordata,Aves,Anseriformes,Anatidae,waterfowl,46
+green-winged teal,Anas crecca,,Anas,crecca,8214667,Chordata,Aves,Anseriformes,Anatidae,waterfowl,34
+harlequin duck,Histrionicus histrionicus,,Histrionicus,histrionicus,2498224,Chordata,Aves,Anseriformes,Anatidae,waterfowl,500
+hooded merganser,Lophodytes cucullatus,,Lophodytes,cucullatus,2498408,Chordata,Aves,Anseriformes,Anatidae,waterfowl,591
+lesser scaup,Aythya affinis,,Aythya,affinis,2498257,Chordata,Aves,Anseriformes,Anatidae,waterfowl,79
+long-tailed duck,Clangula hyemalis,,Clangula,hyemalis,2498273,Chordata,Aves,Anseriformes,Anatidae,waterfowl,244
+mallard,Anas platyrhynchos,,Anas,platyrhynchos,2498132,Chordata,Aves,Anseriformes,Anatidae,waterfowl,38
+Mandarin duck,Aix galericulata,,Aix,galericulata,2498388,Chordata,Aves,Anseriformes,Anatidae,waterfowl,15
+northern pintail,Anas acuta,,Anas,acuta,2498112,Chordata,Aves,Anseriformes,Anatidae,waterfowl,31
+northern shoveler,Anas clypeata,,Anas,clypeata,2498089,Chordata,Aves,Anseriformes,Anatidae,waterfowl,33
+red-breasted merganser,Mergus serrator,,Mergus,serrator,2498375,Chordata,Aves,Anseriformes,Anatidae,waterfowl,620
+redhead,Aythya americana,,Aythya,americana,2498263,Chordata,Aves,Anseriformes,Anatidae,waterfowl,80
+ring-necked duck,Aythya collaris,,Aythya,collaris,2498264,Chordata,Aves,Anseriformes,Anatidae,waterfowl,81
+Rosss goose,Chen rossii,,Chen,rossii,2498160,Chordata,Aves,Anseriformes,Anatidae,waterfowl,227
+ruddy duck,Oxyura jamaicensis,,Oxyura,jamaicensis,2498305,Chordata,Aves,Anseriformes,Anatidae,waterfowl,741
+ruddy shelduck,Tadorna tadorna,,Tadorna,tadorna,2498009,Chordata,Aves,Anseriformes,Anatidae,waterfowl,1124
+snow goose,Chen caerulescens,,Chen,caerulescens,2498165,Chordata,Aves,Anseriformes,Anatidae,waterfowl,226
+surf scoter,Melanitta perspicillata,,Melanitta,perspicillata,2498246,Chordata,Aves,Anseriformes,Anatidae,waterfowl,611
+teal (unknown),Anas sp.,,Anas,sp.,2498056,Chordata,Aves,Anseriformes,Anatidae,waterfowl,40
+tundra swan,Cygnus columbianus,,Cygnus,columbianus,2498338,Chordata,Aves,Anseriformes,Anatidae,waterfowl,306
+white-winged scoter,Melanitta fusca,,Melanitta,fusca,2498238,Chordata,Aves,Anseriformes,Anatidae,waterfowl,609
+wood duck,Aix sponsa,,Aix,sponsa,2498387,Chordata,Aves,Anseriformes,Anatidae,waterfowl,16
+trumpeter swan,Cygnus buccinator,,Cygnus,buccinator,2498345,Chordata,Aves,Anseriformes,Anatidae,waterfowl,305
+Allens hummingbird,Selasphorus sasin,,Selasphorus,sasin,2476852,Chordata,Aves,Apodiformes,Trochilidae,hummingbird,1034
+Annas hummingbird,Calypte anna,,Calypte,anna,2476674,Chordata,Aves,Apodiformes,Trochilidae,hummingbird,156
+black swift,Cypseloides niger,,Cypseloides,niger,2477282,Chordata,Aves,Apodiformes,Apodidae,hummingbird,316
+black-chinned hummingbird,Archilochus alexandri,,Archilochus,alexandri,5228513,Chordata,Aves,Apodiformes,Trochilidae,hummingbird,61
+broad-billed hummingbird,Cynanthus latirostris,,Cynanthus,latirostris,5228542,Chordata,Aves,Apodiformes,Trochilidae,hummingbird,307
+broad-tailed hummingbird,Selasphorus platycercus,,Selasphorus,platycercus,2476844,Chordata,Aves,Apodiformes,Trochilidae,hummingbird,1031
+calliope hummingbird,Stellula calliope,,Stellula,calliope,2476137,Chordata,Aves,Apodiformes,Trochilidae,hummingbird,1092
+chimney swift,Chaetura pelagica,,Chaetura,pelagica,4409023,Chordata,Aves,Apodiformes,Apodidae,hummingbird,215
+Costas hummingbird,Calypte costae,,Calypte,costae,2476675,Chordata,Aves,Apodiformes,Trochilidae,hummingbird,157
+magnificent hummingbird,Eugenes fulgens,,Eugenes,fulgens,2476108,Chordata,Aves,Apodiformes,Trochilidae,hummingbird,400
+rufous hummingbird,Selasphorus rufus,,Selasphorus,rufus,2476855,Chordata,Aves,Apodiformes,Trochilidae,hummingbird,1033
+Vauxs swift,Chaetura vauxi,,Chaetura,vauxi,5228612,Chordata,Aves,Apodiformes,Apodidae,hummingbird,216
+white-throated swift,Aeronautes saxatalis,,Aeronautes,saxatalis,2477108,Chordata,Aves,Apodiformes,Apodidae,hummingbird,10
+Chuck-wills-widow,Caprimulgus carolinensis,,Caprimulgus,carolinensis,2496909,Chordata,Aves,Caprimulgiformes,Caprimulgidae,owls,163
+common nighthawk,Chordeiles minor,,Chordeiles,minor,2497035,Chordata,Aves,Caprimulgiformes,Caprimulgidae,owls,236
+common poorwill,Phalaenoptilus nuttallii,,Phalaenoptilus,nuttallii,2497062,Chordata,Aves,Caprimulgiformes,Caprimulgidae,owls,780
+lesser nighthawk,Chordeiles acutipennis,,Chordeiles,acutipennis,2497052,Chordata,Aves,Caprimulgiformes,Caprimulgidae,owls,235
+nighthawk (unknown),Chordeiles sp.,,Chordeiles,sp.,2497027,Chordata,Aves,Caprimulgiformes,Caprimulgidae,owls,237
+whip-poor-will,Caprimulgus vociferus,,Caprimulgus,vociferus,2496870,Chordata,Aves,Caprimulgiformes,Caprimulgidae,owls,164
+American avocet,Recurvirostra americana,,Recurvirostra,americana,2480258,Chordata,Aves,Charadriiformes,Recurvirostridae,shorebird,973
+American golden-plover,Pluvialis dominica,,Pluvialis,dominica,2480328,Chordata,Aves,Charadriiformes,Charadriidae,shorebird,845
+American herring gull,Larus smithsonianus,,Larus,smithsonianus,4848480,Chordata,Aves,Charadriiformes,Laridae,shorebird,551
+ancient murrelet,Synthliboramphus antiquus,,Synthliboramphus,antiquus,2481350,Chordata,Aves,Charadriiformes,Alcidae,shorebird,1118
+Arctic tern,Sterna paradisaea,,Sterna,paradisaea,5229230,Chordata,Aves,Charadriiformes,Laridae,shorebird,1100
+Bairds sandpiper,Calidris bairdii,,Calidris,bairdii,2481770,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,142
+black skimmer,Rynchops niger,,Rynchops,niger,2481209,Chordata,Aves,Charadriiformes,Laridae,shorebird,1001
+black-bellied plover,Pluvialis squatarola,,Pluvialis,squatarola,2480327,Chordata,Aves,Charadriiformes,Charadriidae,shorebird,847
+black-legged kittiwake,Rissa tridactyla,,Rissa,tridactyla,2481205,Chordata,Aves,Charadriiformes,Laridae,shorebird,1000
+black-necked stilt,Himantopus mexicanus,,Himantopus,mexicanus,5229128,Chordata,Aves,Charadriiformes,Recurvirostridae,shorebird,498
+Bonapartes gull,Larus philadelphia,,Larus,philadelphia,2481169,Chordata,Aves,Charadriiformes,Laridae,shorebird,549
+buff-breasted sandpiper,Tryngites subruficollis,,Tryngites,subruficollis,2481773,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,1169
+California gull,Larus californicus,,Larus,californicus,2481146,Chordata,Aves,Charadriiformes,Laridae,shorebird,541
+Caspian tern,Sterna caspia,,Sterna,caspia,5229221,Chordata,Aves,Charadriiformes,Laridae,shorebird,1097
+common snipe,Gallinago gallinago,,Gallinago,gallinago,2481819,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,433
+common tern,Sterna hirundo,,Sterna,hirundo,5229227,Chordata,Aves,Charadriiformes,Laridae,shorebird,1099
+curlew sandpiper,Calidris ferruginea,,Calidris,ferruginea,2481741,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,144
+dunlin,Calidris alpina,,Calidris,alpina,2481759,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,141
+Forsters tern,Sterna forsteri,,Sterna,forsteri,5229247,Chordata,Aves,Charadriiformes,Laridae,shorebird,1098
+Franklins gull,Larus pipixcan,,Larus,pipixcan,2481177,Chordata,Aves,Charadriiformes,Laridae,shorebird,550
+glaucous gull,Larus hyperboreus,,Larus,hyperboreus,2481127,Chordata,Aves,Charadriiformes,Laridae,shorebird,546
+glaucous-winged gull,Larus glaucescens,,Larus,glaucescens,2481196,Chordata,Aves,Charadriiformes,Laridae,shorebird,544
+greater yellowlegs,Tringa melanoleuca,,Tringa,melanoleuca,2481720,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,1162
+Heermanns gull,Larus heermanni,,Larus,heermanni,2481130,Chordata,Aves,Charadriiformes,Laridae,shorebird,545
+herring gull,Larus argentatus,,Larus,argentatus,2481139,Chordata,Aves,Charadriiformes,Laridae,shorebird,539
+Hudsonian godwit,Limosa haemastica,,Limosa,haemastica,2481680,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,586
+killdeer,Charadrius vociferus,,Charadrius,vociferus,2480320,Chordata,Aves,Charadriiformes,Charadriidae,shorebird,220
+laughing gull,Larus atricilla,,Larus,atricilla,2481192,Chordata,Aves,Charadriiformes,Laridae,shorebird,540
+least sandpiper,Calidris minutilla,,Calidris,minutilla,2481745,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,148
+least tern,Sterna antillarum,,Sterna,antillarum,5229235,Chordata,Aves,Charadriiformes,Laridae,shorebird,1096
+lesser yellowlegs,Tringa flavipes,,Tringa,flavipes,2481721,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,1161
+long-billed dowitcher,Limnodromus scolopaceus,,Limnodromus,scolopaceus,2481670,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,584
+long-tailed jaeger,Stercorarius longicaudus,,Stercorarius,longicaudus,2481613,Chordata,Aves,Charadriiformes,Stercorariidae,shorebird,1093
+marbled godwit,Limosa fedoa,,Limosa,fedoa,2481684,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,585
+mew gull,Larus canus,,Larus,canus,7982160,Chordata,Aves,Charadriiformes,Laridae,shorebird,542
+mountain plover,Charadrius montanus,,Charadrius,montanus,2480292,Chordata,Aves,Charadriiformes,Charadriidae,shorebird,218
+Pacific golden-plover,Pluvialis fulva,,Pluvialis,fulva,2480331,Chordata,Aves,Charadriiformes,Charadriidae,shorebird,846
+parasitic jaeger,Stercorarius parasiticus,,Stercorarius,parasiticus,2481621,Chordata,Aves,Charadriiformes,Stercorariidae,shorebird,1094
+pectoral sandpiper,Calidris melanotos,,Calidris,melanotos,2481744,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,147
+pomarine jaeger,Stercorarius pomarinus,,Stercorarius,pomarinus,2481609,Chordata,Aves,Charadriiformes,Stercorariidae,shorebird,1095
+red knot,Calidris canutus,,Calidris,canutus,2481765,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,143
+red phalarope,Phalaropus fulicaria,,Phalaropus,fulicaria,5229390,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,781
+red-legged kittiwake,Rissa brevirostris,,Rissa,brevirostris,2481204,Chordata,Aves,Charadriiformes,Laridae,shorebird,999
+red-necked phalarope,Phalaropus lobatus,,Phalaropus,lobatus,5739290,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,782
+red-necked stint,Calidris ruficollis,,Calidris,ruficollis,2481746,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,150
+ring-billed gull,Larus delawarensis,,Larus,delawarensis,2481134,Chordata,Aves,Charadriiformes,Laridae,shorebird,543
+ruddy turnstone,Arenaria interpres,,Arenaria,interpres,2481776,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,65
+ruff,Philomachus pugnax,,Philomachus,pugnax,5229387,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,787
+Sabines gull,Xema sabini,,Xema,sabini,2481221,Chordata,Aves,Charadriiformes,Laridae,shorebird,1240
+sanderling,Calidris alba,,Calidris,alba,2481748,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,140
+semipalmated plover,Charadrius semipalmatus,,Charadrius,semipalmatus,2480295,Chordata,Aves,Charadriiformes,Charadriidae,shorebird,219
+semipalmated sandpiper,Calidris pusilla,,Calidris,pusilla,2481764,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,149
+sharp-tailed sandpiper,Calidris acuminata,,Calidris,acuminata,2481769,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,139
+short-billed dowitcher,Limnodromus griseus,,Limnodromus,griseus,2481672,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,583
+solitary sandpiper,Tringa solitaria,,Tringa,solitaria,2481710,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,1164
+spotted redshank,Tringa erythropus,,Tringa,erythropus,2481725,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,1160
+spotted sandpiper,Actitis macularia,,Actitis,macularia,2481798,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,6
+stilt sandpiper,Calidris himantopus,,Calidris,himantopus,5229400,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,145
+Thayers gull,Larus thayeri,,Larus,thayeri,2481159,Chordata,Aves,Charadriiformes,Laridae,shorebird,552
+upland sandpiper,Bartramia longicauda,,Bartramia,longicauda,2481705,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,86
+western gull,Larus occidentalis,,Larus,occidentalis,2481149,Chordata,Aves,Charadriiformes,Laridae,shorebird,548
+western sandpiper,Calidris mauri,,Calidris,mauri,2481742,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,146
+whimbrel,Numenius phaeopus,,Numenius,phaeopus,2481784,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,692
+willet,Tringa semipalmata,,Tringa,semipalmata,5789298,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,1163
+Wilsons phalarope,Phalaropus tricolor,,Phalaropus,tricolor,5229389,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,783
+Wilsons snipe,Gallinago delicata,,Gallinago,delicata,2481817,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,432
+yellow-footed gull,Larus livens,,Larus,livens,2481154,Chordata,Aves,Charadriiformes,Laridae,shorebird,547
+phalarope (unknown),Phalaropus sp.,,Phalaropus,sp.,5229388,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,1298
+western snowy plover,Charadrius alexandrinus nivosus,,Charadrius,alexandrinus,6178288,Chordata,Aves,Charadriiformes,Charadriidae,shorebird,217
+long-billed curlew,Numenius americanus,,Numenius,americanus,2481794,Chordata,Aves,Charadriiformes,Scolopacidae,shorebird,691
+black tern,Chlidonias niger,,Chlidonias,niger,2481119,Chordata,Aves,Charadriiformes,Laridae,shorebird,232
+Marabou stork,Leptoptilus crumenifer,,Leptoptilus,crumenifer,6101215,Chordata,Aves,Ciconiiformes,Ciconiidae,shorebird,574
+wood stork,Mycteria americana,,Mycteria,americana,2481937,Chordata,Aves,Ciconiiformes,Ciconiidae,shorebird,652
+belted kingfisher,Ceryle alcyon,,Ceryle,alcyon,2475474,Chordata,Aves,Coraciiformes,Alcedinidae,pico,209
+kookaburra,Dacelo novaeguineae,,Dacelo,novaeguineae,2475648,Chordata,Aves,Coraciiformes,Alcedinidae,pico,317
+American kestrel,Falco sparverius,,Falco,sparverius,2481022,Chordata,Aves,Falconiformes,Falconidae,raptor,410
+falcon (unknown),Falco sp.,,Falco,sp.,2480996,Chordata,Aves,Falconiformes,Falconidae,raptor,409
+gyrfalcon,Falco rusticolus,,Falco,rusticolus,8069880,Chordata,Aves,Falconiformes,Falconidae,raptor,408
+merlin,Falco columbarius,,Falco,columbarius,8137614,Chordata,Aves,Falconiformes,Falconidae,raptor,405
+prairie falcon,Falco mexicanus,,Falco,mexicanus,2481000,Chordata,Aves,Falconiformes,Falconidae,raptor,406
+peregrine falcon,Falco peregrinus,,Falco,peregrinus,2481047,Chordata,Aves,Falconiformes,Falconidae,raptor,407
+dove (unknown),Zenaida sp.,,Zenaida,sp.,2495346,Chordata,Aves,Columbiformes,Columbidae,upland,1247
+Artic loon,Gavia arctica,,Gavia,arctica,2481959,Chordata,Aves,Gaviiformes,Gaviidae,waterfowl,438
+loon (unknown),Gavia sp.,,Gavia,sp.,2481954,Chordata,Aves,Gaviiformes,Gaviidae,waterfowl,441
+Pacific Loon,Gavia pacifica,,Gavia,pacifica,2481955,Chordata,Aves,Gaviiformes,Gaviidae,waterfowl,440
+red-throated loon,Gavia stellata,,Gavia,stellata,2481958,Chordata,Aves,Gaviiformes,Gaviidae,waterfowl,442
+yellow-billed loon,Gavia adamsii,,Gavia,adamsii,2481957,Chordata,Aves,Gaviiformes,Gaviidae,waterfowl,437
+common loon,Gavia immer,,Gavia,immer,2481962,Chordata,Aves,Gaviiformes,Gaviidae,waterfowl,439
+American coot,Fulica americana,,Fulica,americana,2474393,Chordata,Aves,Gruiformes,Rallidae,shorebird,431
+common moorhen,Gallinula chloropus,,Gallinula,chloropus,5228199,Chordata,Aves,Gruiformes,Rallidae,shorebird,434
+purple gallinule,Porphyrio martinica,,Porphyrio,martinica,5228136,Chordata,Aves,Gruiformes,Rallidae,shorebird,865
+sora,Porzana carolina,,Porzana,carolina,2474639,Chordata,Aves,Gruiformes,Rallidae,shorebird,866
+Virginia rail,Rallus limicola,,Rallus,limicola,2474825,Chordata,Aves,Gruiformes,Rallidae,shorebird,960
+whooping crane,Grus americana,,Grus,americana,2474941,Chordata,Aves,Gruiformes,Gruidae,shorebird,477
+yellow rail,Coturnicops noveboracensis,,Coturnicops,noveboracensis,5228183,Chordata,Aves,Gruiformes,Rallidae,shorebird,280
+greater sandhill crane,Grus canadensis tabida,,Grus,canadensis,6176784,Chordata,Aves,Gruiformes,Gruidae,shorebird,479
+Ridgeways rail,Rallus obsoletus,,Rallus,obsoletus,7449585,Chordata,Aves,Gruiformes,Rallidae,shorebird,961
+Aberts towhee,Pipilo aberti,,Pipilo,aberti,2491284,Chordata,Aves,Passeriformes,Emberizidae,passerine,814
+American crow,Corvus brachyrhynchos,,Corvus,brachyrhynchos,2482507,Chordata,Aves,Passeriformes,Corvidae,passerine,268
+American dipper,Cinclus mexicanus,,Cinclus,mexicanus,5231777,Chordata,Aves,Passeriformes,Cinclidae,passerine,240
+American goldfinch,Spinus tristis,,Spinus,tristis,5231640,Chordata,Aves,Passeriformes,Fringillidae,passerine,174
+American pipit,Anthus rubescens,,Anthus,rubescens,2490263,Chordata,Aves,Passeriformes,Motacillidae,passerine,49
+American redstart,Setophaga ruticilla,,Setophaga,ruticilla,2489985,Chordata,Aves,Passeriformes,Parulidae,passerine,1035
+American robin,Turdus migratorius,,Turdus,migratorius,2490765,Chordata,Aves,Passeriformes,Turdidae,passerine,1178
+American tree sparrow,Spizella arborea,,Spizella,arborea,2492116,Chordata,Aves,Passeriformes,Emberizidae,passerine,1078
+ash-throated flycatcher,Myiarchus cinerascens,,Myiarchus,cinerascens,2483600,Chordata,Aves,Passeriformes,Tyrannidae,passerine,653
+Audubons warbler,Dendroica coronata auduboni,,Dendroica,coronata,6172947,Chordata,Aves,Passeriformes,Parulidae,passerine,325
+Baltimore oriole,Icterus galbula,,Icterus,galbula,2484340,Chordata,Aves,Passeriformes,Icteridae,passerine,513
+bank swallow,Riparia riparia,,Riparia,riparia,2489160,Chordata,Aves,Passeriformes,Hirundinidae,passerine,998
+barn swallow,Hirundo rustica,,Hirundo,rustica,5230791,Chordata,Aves,Passeriformes,Hirundinidae,passerine,499
+bay-breasted warbler,Dendroica castanea,,Dendroica,castanea,2489903,Chordata,Aves,Passeriformes,Parulidae,passerine,322
+Bells vireo,Vireo bellii,,Vireo,bellii,2487441,Chordata,Aves,Passeriformes,Vireonidae,passerine,1214
+Bewicks wren,Thryomanes bewickii,,Thryomanes,bewickii,2493843,Chordata,Aves,Passeriformes,Troglodytidae,passerine,1150
+black phoebe,Sayornis nigricans,,Sayornis,nigricans,2483612,Chordata,Aves,Passeriformes,Tyrannidae,passerine,1015
+black-and-white warbler,Mniotilta varia,,Mniotilta,varia,2489613,Chordata,Aves,Passeriformes,Parulidae,passerine,638
+black-billed magpie,Pica hudsonia,,Pica,hudsonia,5229487,Chordata,Aves,Passeriformes,Corvidae,passerine,802
+Blackburnian warbler,Dendroica fusca,,Dendroica,fusca,2489913,Chordata,Aves,Passeriformes,Parulidae,passerine,329
+black-capped chickadee,Poecile atricapilla,,Poecile,atricapilla,2487805,Chordata,Aves,Passeriformes,Paridae,passerine,852
+black-chinned sparrow,Spizella atrogularis,,Spizella,atrogularis,2492104,Chordata,Aves,Passeriformes,Emberizidae,passerine,1079
+black-headed grosbeak,Pheucticus melanocephalus,,Pheucticus,melanocephalus,2490487,Chordata,Aves,Passeriformes,Cardinalidae,passerine,786
+blackpoll warbler,Dendroica striata,,Dendroica,striata,2489888,Chordata,Aves,Passeriformes,Parulidae,passerine,338
+black-tailed gnatcatcher,Polioptila melanura,,Polioptila,melanura,2487586,Chordata,Aves,Passeriformes,Polioptilidae,passerine,860
+black-throated blue warbler,Dendroica caerulescens,,Dendroica,caerulescens,2489915,Chordata,Aves,Passeriformes,Parulidae,passerine,321
+black-throated gray warbler,Dendroica nigrescens,,Dendroica,nigrescens,2489929,Chordata,Aves,Passeriformes,Parulidae,passerine,332
+black-throated green warbler,Dendroica virens,,Dendroica,virens,2489976,Chordata,Aves,Passeriformes,Parulidae,passerine,341
+black-throated sparrow,Amphispiza bilineata,,Amphispiza,bilineata,2491757,Chordata,Aves,Passeriformes,Emberizidae,passerine,30
+blue grosbeak,Passerina caerulea,,Passerina,caerulea,5230862,Chordata,Aves,Passeriformes,Cardinalidae,passerine,753
+blue jay,Cyanocitta cristata,,Cyanocitta,cristata,2482593,Chordata,Aves,Passeriformes,Corvidae,passerine,303
+blue-gray gnatcatcher,Polioptila caerulea,,Polioptila,caerulea,2487596,Chordata,Aves,Passeriformes,Polioptilidae,passerine,859
+blue-headed vireo,Vireo solitarius,,Vireo,solitarius,2487456,Chordata,Aves,Passeriformes,Vireonidae,passerine,1224
+blue-winged warbler,Vermivora cyanoptera,,Vermivora,cyanoptera,6093846,Chordata,Aves,Passeriformes,Parulidae,passerine,1206
+boat-tailed grackle,Quiscalus major,,Quiscalus,major,2484133,Chordata,Aves,Passeriformes,Icteridae,passerine,955
+Bohemian waxwing,Bombycilla garrulus,,Bombycilla,garrulus,2484605,Chordata,Aves,Passeriformes,Bombycillidae,passerine,93
+brambling,Fringilla montifringilla,,Fringilla,montifringilla,2494441,Chordata,Aves,Passeriformes,Fringillidae,passerine,429
+Brewers blackbird,Euphagus cyanocephalus,,Euphagus,cyanocephalus,2484183,Chordata,Aves,Passeriformes,Icteridae,passerine,404
+bronzed cowbird,Molothrus aeneus,,Molothrus,aeneus,2484404,Chordata,Aves,Passeriformes,Icteridae,passerine,641
+brown creeper,Certhia americana,,Certhia,americana,2487613,Chordata,Aves,Passeriformes,Certhiidae,passerine,206
+brown thrasher,Toxostoma rufum,,Toxostoma,rufum,5231694,Chordata,Aves,Passeriformes,Mimidae,passerine,1157
+brown-crested flycatcher,Myiarchus tyrannulus,,Myiarchus,tyrannulus,2483589,Chordata,Aves,Passeriformes,Tyrannidae,passerine,655
+brown-headed cowbird,Molothrus ater,,Molothrus,ater,2484391,Chordata,Aves,Passeriformes,Icteridae,passerine,642
+Bullocks oriole,Icterus bullockii,,Icterus,bullockii,5229864,Chordata,Aves,Passeriformes,Icteridae,passerine,511
+bushtit,Psaltriparus minimus,,Psaltriparus,minimus,2494988,Chordata,Aves,Passeriformes,Aegithalidae,passerine,876
+cactus wren,Campylorhynchus brunneicapillus,,Campylorhynchus,brunneicapillus,5231474,Chordata,Aves,Passeriformes,Troglodytidae,passerine,159
+Canada warbler,Wilsonia canadensis,,Wilsonia,canadensis,4408918,Chordata,Aves,Passeriformes,Parulidae,passerine,1234
+canyon towhee,Pipilo fuscus,,Pipilo,fuscus,2491244,Chordata,Aves,Passeriformes,Emberizidae,passerine,817
+canyon wren,Catherpes mexicanus,,Catherpes,mexicanus,5231430,Chordata,Aves,Passeriformes,Troglodytidae,passerine,187
+Cape May warbler,Dendroica tigrina,,Dendroica,tigrina,2489895,Chordata,Aves,Passeriformes,Parulidae,passerine,339
+Cassins finch,Carpodacus cassinii,,Carpodacus,cassinii,2494506,Chordata,Aves,Passeriformes,Fringillidae,passerine,176
+Cassins kingbird,Tyrannus vociferans,,Tyrannus,vociferans,5229681,Chordata,Aves,Passeriformes,Tyrannidae,passerine,1187
+Cassins sparrow,Aimophila cassinii,,Aimophila,cassinii,2491950,Chordata,Aves,Passeriformes,Emberizidae,passerine,13
+Cassins vireo,Vireo cassinii,,Vireo,cassinii,2487407,Chordata,Aves,Passeriformes,Vireonidae,passerine,1216
+cedar waxwing,Bombycilla cedrorum,,Bombycilla,cedrorum,2484609,Chordata,Aves,Passeriformes,Bombycillidae,passerine,92
+cerulean warbler,Dendroica cerulea,,Dendroica,cerulea,2489982,Chordata,Aves,Passeriformes,Parulidae,passerine,323
+chestnut-collared longspur,Calcarius ornatus,,Calcarius,ornatus,2491677,Chordata,Aves,Passeriformes,Calcariidae,passerine,137
+chestnut-sided warbler,Dendroica pensylvanica,,Dendroica,pensylvanica,2489923,Chordata,Aves,Passeriformes,Parulidae,passerine,335
+chickadee (unknown),Poecile sp.,,Poecile,sp.,2487782,Chordata,Aves,Passeriformes,Paridae,passerine,854
+chipping sparrow,Spizella passerina,,Spizella,passerina,2492109,Chordata,Aves,Passeriformes,Emberizidae,passerine,1082
+Clarks nutcracker,Nucifraga columbiana,,Nucifraga,columbiana,2482614,Chordata,Aves,Passeriformes,Corvidae,passerine,690
+clay-colored sparrow,Spizella pallida,,Spizella,pallida,2492101,Chordata,Aves,Passeriformes,Emberizidae,passerine,1081
+cliff swallow,Petrochelidon pyrrhonota,,Petrochelidon,pyrrhonota,2489169,Chordata,Aves,Passeriformes,Hirundinidae,passerine,776
+common grackle,Quiscalus quiscula,,Quiscalus,quiscula,2484155,Chordata,Aves,Passeriformes,Icteridae,passerine,957
+common raven,Corvus corax,,Corvus,corax,2482492,Chordata,Aves,Passeriformes,Corvidae,passerine,269
+common redpoll,Carduelis flammea,,Carduelis,flammea,2494622,Chordata,Aves,Passeriformes,Fringillidae,passerine,169
+common yellowthroat,Geothlypis trichas,,Geothlypis,trichas,2489670,Chordata,Aves,Passeriformes,Parulidae,passerine,444
+Connecticut warbler,Oporornis agilis,,Oporornis,agilis,2489611,Chordata,Aves,Passeriformes,Parulidae,passerine,714
+cordilleran flycatcher,Empidonax occidentalis,,Empidonax,occidentalis,2482805,Chordata,Aves,Passeriformes,Tyrannidae,passerine,382
+curve-billed thrasher,Toxostoma curvirostre,,Toxostoma,curvirostre,5231688,Chordata,Aves,Passeriformes,Mimidae,passerine,1155
+dark-eyed junco,Junco hyemalis,,Junco,hyemalis,2492010,Chordata,Aves,Passeriformes,Emberizidae,passerine,524
+dusky flycatcher,Empidonax oberholseri,,Empidonax,oberholseri,2482803,Chordata,Aves,Passeriformes,Tyrannidae,passerine,381
+dusky-capped flycatcher,Myiarchus tuberculifer,,Myiarchus,tuberculifer,2483531,Chordata,Aves,Passeriformes,Tyrannidae,passerine,654
+eastern kingbird,Tyrannus tyrannus,,Tyrannus,tyrannus,5229688,Chordata,Aves,Passeriformes,Tyrannidae,passerine,1185
+eastern phoebe,Sayornis phoebe,,Sayornis,phoebe,2483606,Chordata,Aves,Passeriformes,Tyrannidae,passerine,1016
+eastern (rufous-sided) towhee,Pipilo erythrophthalmus,,Pipilo,erythrophthalmus,2491205,Chordata,Aves,Passeriformes,Emberizidae,passerine,816
+European starling,Sturnus vulgaris,,Sturnus,vulgaris,2489105,Chordata,Aves,Passeriformes,Sturnidae,passerine,1105
+evening grosbeak,Coccothraustes vespertinus,,Coccothraustes,vespertinus,2494321,Chordata,Aves,Passeriformes,Fringillidae,passerine,245
+field sparrow,Spizella pusilla,,Spizella,pusilla,2492096,Chordata,Aves,Passeriformes,Emberizidae,passerine,1083
+finch (unknown),Carpodacus sp.,,Carpodacus,sp.,2494445,Chordata,Aves,Passeriformes,Fringillidae,passerine,179
+flycatcher (unknown),Empidonax sp.,,Empidonax,sp.,2482766,Chordata,Aves,Passeriformes,Tyrannidae,passerine,383
+fox sparrow,Passerella iliaca,,Passerella,iliaca,2491872,Chordata,Aves,Passeriformes,Emberizidae,passerine,751
+golden-crowned kinglet,Regulus satrapa,,Regulus,satrapa,2484591,Chordata,Aves,Passeriformes,Regulidae,passerine,975
+golden-crowned sparrow,Zonotrichia atricapilla,,Zonotrichia,atricapilla,5231138,Chordata,Aves,Passeriformes,Emberizidae,passerine,1250
+golden-winged warbler,Vermivora chrysoptera,,Vermivora,chrysoptera,5230811,Chordata,Aves,Passeriformes,Parulidae,passerine,1203
+Graces warbler,Dendroica graciae,,Dendroica,graciae,2489918,Chordata,Aves,Passeriformes,Parulidae,passerine,330
+grasshopper sparrow,Ammodramus savannarum,,Ammodramus,savannarum,2491123,Chordata,Aves,Passeriformes,Emberizidae,passerine,27
+gray catbird,Dumetella carolinensis,,Dumetella,carolinensis,2494936,Chordata,Aves,Passeriformes,Mimidae,passerine,361
+gray flycatcher,Empidonax wrightii,,Empidonax,wrightii,2482767,Chordata,Aves,Passeriformes,Tyrannidae,passerine,388
+gray jay,Perisoreus canadensis,,Perisoreus,canadensis,2482436,Chordata,Aves,Passeriformes,Corvidae,passerine,764
+gray-cheeked thrush,Catharus minimus,,Catharus,minimus,2490826,Chordata,Aves,Passeriformes,Turdidae,passerine,184
+gray-headed junco,Junco hyemalis caniceps,,Junco,hyemalis,6173532,Chordata,Aves,Passeriformes,Emberizidae,passerine,525
+greater pewee,Contopus pertinax,,Contopus,pertinax,5229730,Chordata,Aves,Passeriformes,Tyrannidae,passerine,265
+great-tailed grackle,Quiscalus mexicanus,,Quiscalus,mexicanus,2484142,Chordata,Aves,Passeriformes,Icteridae,passerine,956
+green-tailed towhee,Pipilo chlorurus,,Pipilo,chlorurus,2491276,Chordata,Aves,Passeriformes,Emberizidae,passerine,815
+Hammonds flycatcher,Empidonax hammondii,,Empidonax,hammondii,2482800,Chordata,Aves,Passeriformes,Tyrannidae,passerine,379
+Harriss sparrow,Zonotrichia querula,,Zonotrichia,querula,5231139,Chordata,Aves,Passeriformes,Emberizidae,passerine,1252
+hepatic tanager,Piranga flava,,Piranga,flava,2488498,Chordata,Aves,Passeriformes,Cardinalidae,passerine,820
+hermit thrush,Catharus guttatus,,Catharus,guttatus,2490810,Chordata,Aves,Passeriformes,Turdidae,passerine,183
+hermit warbler,Dendroica occidentalis,,Dendroica,occidentalis,2489887,Chordata,Aves,Passeriformes,Parulidae,passerine,333
+hoary redpoll,Carduelis hornemanni,,Carduelis,hornemanni,2494732,Chordata,Aves,Passeriformes,Fringillidae,passerine,170
+hooded oriole,Icterus cucullatus,,Icterus,cucullatus,5229882,Chordata,Aves,Passeriformes,Icteridae,passerine,512
+hooded warbler,Wilsonia citrina,,Wilsonia,citrina,4408922,Chordata,Aves,Passeriformes,Parulidae,passerine,1235
+horned lark,Eremophila alpestris,,Eremophila,alpestris,5230962,Chordata,Aves,Passeriformes,Alaudidae,passerine,394
+house finch,Carpodacus mexicanus,,Carpodacus,mexicanus,2494446,Chordata,Aves,Passeriformes,Fringillidae,passerine,177
+house sparrow,Passer domesticus,,Passer,domesticus,5231190,Chordata,Aves,Passeriformes,Passeridae,passerine,749
+house wren,Troglodytes aedon,,Troglodytes,aedon,5231459,Chordata,Aves,Passeriformes,Troglodytidae,passerine,1166
+Huttons vireo,Vireo huttoni,,Vireo,huttoni,2487420,Chordata,Aves,Passeriformes,Vireonidae,passerine,1220
+indigo bunting,Passerina cyanea,,Passerina,cyanea,2490327,Chordata,Aves,Passeriformes,Cardinalidae,passerine,755
+junco (unknown),Junco sp.,,Junco,sp.,2492009,Chordata,Aves,Passeriformes,Emberizidae,passerine,528
+Kentucky warbler,Oporornis formosus,,Oporornis,formosus,2489606,Chordata,Aves,Passeriformes,Parulidae,passerine,715
+Lapland longspur,Calcarius lapponicus,,Calcarius,lapponicus,2491678,Chordata,Aves,Passeriformes,Calcariidae,passerine,135
+lark bunting,Calamospiza melanocorys,,Calamospiza,melanocorys,2491893,Chordata,Aves,Passeriformes,Emberizidae,passerine,134
+lark sparrow,Chondestes grammacus,,Chondestes,grammacus,2491651,Chordata,Aves,Passeriformes,Emberizidae,passerine,234
+Lawrences goldfinch,Spinus lawrencei,,Spinus,lawrencei,5231643,Chordata,Aves,Passeriformes,Fringillidae,passerine,171
+lazuli bunting,Passerina amoena,,Passerina,amoena,5230861,Chordata,Aves,Passeriformes,Cardinalidae,passerine,752
+Le Contes sparrow,Ammodramus leconteii,,Ammodramus,leconteii,2491080,Chordata,Aves,Passeriformes,Emberizidae,passerine,26
+least flycatcher,Empidonax minimus,,Empidonax,minimus,2482791,Chordata,Aves,Passeriformes,Tyrannidae,passerine,380
+lesser goldfinch,Spinus psaltria,,Spinus,psaltria,5231647,Chordata,Aves,Passeriformes,Fringillidae,passerine,173
+Lincolns sparrow,Melospiza lincolnii,,Melospiza,lincolnii,2492192,Chordata,Aves,Passeriformes,Emberizidae,passerine,616
+MacGillivrays warbler,Oporornis tolmiei,,Oporornis,tolmiei,2489608,Chordata,Aves,Passeriformes,Parulidae,passerine,717
+magnolia warbler,Dendroica magnolia,,Dendroica,magnolia,2489914,Chordata,Aves,Passeriformes,Parulidae,passerine,331
+marsh wren,Cistothorus palustris,,Cistothorus,palustris,2493863,Chordata,Aves,Passeriformes,Troglodytidae,passerine,242
+McCowns longspur,Calcarius mccownii,,Calcarius,mccownii,2491685,Chordata,Aves,Passeriformes,Calcariidae,passerine,136
+Mexican jay,Aphelocoma ultramarina,,Aphelocoma,ultramarina,2482395,Chordata,Aves,Passeriformes,Corvidae,passerine,57
+mountain bluebird,Sialia currucoides,,Sialia,currucoides,2490935,Chordata,Aves,Passeriformes,Turdidae,passerine,1037
+mountain chickadee,Poecile gambeli,,Poecile,gambeli,2487825,Chordata,Aves,Passeriformes,Paridae,passerine,853
+mourning warbler,Oporornis philadelphia,,Oporornis,philadelphia,2489607,Chordata,Aves,Passeriformes,Parulidae,passerine,716
+Myrtles warbler,Dendroica coronata coronata,,Dendroica,coronata,7191634,Chordata,Aves,Passeriformes,Parulidae,passerine,326
+Nashville warbler,Oreothlypis ruficapilla,,Oreothlypis,ruficapilla,6093694,Chordata,Aves,Passeriformes,Parulidae,passerine,1207
+northern beardless-tyrannulet,Camptostoma imberbe,,Camptostoma,imberbe,2483507,Chordata,Aves,Passeriformes,Tyrannidae,passerine,158
+northern cardinal,Cardinalis cardinalis,,Cardinalis,cardinalis,2490384,Chordata,Aves,Passeriformes,Cardinalidae,passerine,167
+northern mockingbird,Mimus polyglottos,,Mimus,polyglottos,5231677,Chordata,Aves,Passeriformes,Mimidae,passerine,636
+northern parula,Parula americana,,Parula,americana,2489730,Chordata,Aves,Passeriformes,Parulidae,passerine,748
+northern rough-winged swallow,Stelgidopteryx serripennis,,Stelgidopteryx,serripennis,2489202,Chordata,Aves,Passeriformes,Hirundinidae,passerine,1091
+northern shrike,Lanius excubitor,,Lanius,excubitor,8061978,Chordata,Aves,Passeriformes,Laniidae,passerine,536
+northern waterthrush,Seiurus noveboracensis,,Seiurus,noveboracensis,2489585,Chordata,Aves,Passeriformes,Parulidae,passerine,1030
+oak titmouse,Baeolophus inornatus,,Baeolophus,inornatus,2487905,Chordata,Aves,Passeriformes,Paridae,passerine,84
+olive-backed pipit,Anthus hodgsoni,,Anthus,hodgsoni,2490244,Chordata,Aves,Passeriformes,Motacillidae,passerine,48
+orange-crowned warbler,Oreothlypis celata,,Oreothlypis,celata,7342009,Chordata,Aves,Passeriformes,Parulidae,passerine,1202
+orchard oriole,Icterus spurius,,Icterus,spurius,5229935,Chordata,Aves,Passeriformes,Icteridae,passerine,516
+Oregon junco,Junco hyemalis cismontanus,,Junco,hyemalis,6173545,Chordata,Aves,Passeriformes,Emberizidae,passerine,526
+ovenbird,Seiurus aurocapillus,,Seiurus,aurocapillus,2489590,Chordata,Aves,Passeriformes,Parulidae,passerine,1029
+Pacific-slope flycatcher,Empidonax difficilis,,Empidonax,difficilis,2482792,Chordata,Aves,Passeriformes,Tyrannidae,passerine,377
+painted bunting,Passerina ciris,,Passerina,ciris,5230852,Chordata,Aves,Passeriformes,Cardinalidae,passerine,754
+painted redstart,Myioborus pictus,,Myioborus,pictus,2489850,Chordata,Aves,Passeriformes,Parulidae,passerine,656
+palm warbler,Dendroica palmarum,,Dendroica,palmarum,2489910,Chordata,Aves,Passeriformes,Parulidae,passerine,334
+Philadelphia vireo,Vireo philadelphicus,,Vireo,philadelphicus,2487408,Chordata,Aves,Passeriformes,Vireonidae,passerine,1222
+pied crow,Corvus albus,,Corvus,albus,2482519,Chordata,Aves,Passeriformes,Corvidae,passerine,267
+pine grosbeak,Pinicola enucleator,,Pinicola,enucleator,2494771,Chordata,Aves,Passeriformes,Fringillidae,passerine,813
+pine siskin,Carduelis pinus,,Carduelis,pinus,2494634,Chordata,Aves,Passeriformes,Fringillidae,passerine,172
+pine warbler,Dendroica pinus,,Dendroica,pinus,9004486,Chordata,Aves,Passeriformes,Parulidae,passerine,337
+plumbeous vireo,Vireo plumbeous,,Vireo,plumbeous,2487429,Chordata,Aves,Passeriformes,Vireonidae,passerine,1223
+prairie warbler,Dendroica discolor,,Dendroica,discolor,2489979,Chordata,Aves,Passeriformes,Parulidae,passerine,327
+prothonotary warbler,Protonotaria citrea,,Protonotaria,citrea,2489871,Chordata,Aves,Passeriformes,Parulidae,passerine,875
+purple finch,Carpodacus purpureus,,Carpodacus,purpureus,2494478,Chordata,Aves,Passeriformes,Fringillidae,passerine,178
+purple martin,Progne subis,,Progne,subis,2489129,Chordata,Aves,Passeriformes,Hirundinidae,passerine,871
+pygmy nuthatch,Sitta pygmaea,,Sitta,pygmaea,2484907,Chordata,Aves,Passeriformes,Sittidae,passerine,1043
+pyrrhuloxia,Cardinalis sinuatus,,Cardinalis,sinuatus,2490405,Chordata,Aves,Passeriformes,Cardinalidae,passerine,168
+red crossbill,Loxia curvirostra,,Loxia,curvirostra,2494155,Chordata,Aves,Passeriformes,Fringillidae,passerine,592
+red-breasted nuthatch,Sitta canadensis,,Sitta,canadensis,2484879,Chordata,Aves,Passeriformes,Sittidae,passerine,1041
+red-eyed vireo,Vireo olivaceus,,Vireo,olivaceus,2487430,Chordata,Aves,Passeriformes,Vireonidae,passerine,1221
+red-faced warbler,Cardellina rubrifrons,,Cardellina,rubrifrons,2489634,Chordata,Aves,Passeriformes,Parulidae,passerine,166
+red-winged blackbird,Agelaius phoeniceus,,Agelaius,phoeniceus,2484452,Chordata,Aves,Passeriformes,Icteridae,passerine,11
+rock wren,Salpinctes obsoletus,,Salpinctes,obsoletus,5231483,Chordata,Aves,Passeriformes,Troglodytidae,passerine,1005
+rose-breasted grosbeak,Pheucticus ludovicianus,,Pheucticus,ludovicianus,2490494,Chordata,Aves,Passeriformes,Cardinalidae,passerine,785
+ruby-crowned kinglet,Regulus calendula,,Regulus,calendula,2484597,Chordata,Aves,Passeriformes,Regulidae,passerine,974
+rufous-backed robin,Turdus rufopalliatus,,Turdus,rufopalliatus,2490741,Chordata,Aves,Passeriformes,Turdidae,passerine,1179
+rufous-crowned sparrow,Aimophila ruficeps,,Aimophila,ruficeps,2491961,Chordata,Aves,Passeriformes,Emberizidae,passerine,14
+rusty blackbird,Euphagus carolinus,,Euphagus,carolinus,2484184,Chordata,Aves,Passeriformes,Icteridae,passerine,403
+sage sparrow,Amphispiza belli,,Amphispiza,belli,2491751,Chordata,Aves,Passeriformes,Emberizidae,passerine,29
+saltmarsh sharp-tailed swallow,Ammodramus caudacutus,,Ammodramus,caudacutus,2491082,Chordata,Aves,Passeriformes,Emberizidae,passerine,25
+savannah sparrow,Passerculus sandwichensis,,Passerculus,sandwichensis,5231142,Chordata,Aves,Passeriformes,Emberizidae,passerine,750
+Says phoebe,Sayornis saya,,Sayornis,saya,2483607,Chordata,Aves,Passeriformes,Tyrannidae,passerine,1017
+scarlet tanager,Piranga olivacea,,Piranga,olivacea,2488517,Chordata,Aves,Passeriformes,Cardinalidae,passerine,822
+scissor-tailed flycatcher,Tyrannus forficatus,,Tyrannus,forficatus,5229687,Chordata,Aves,Passeriformes,Tyrannidae,passerine,1183
+Scotts oriole,Icterus parisorum,,Icterus,parisorum,5229930,Chordata,Aves,Passeriformes,Icteridae,passerine,514
+slate-colored junco,Junco hyemalis hyemalis,,Junco,hyemalis,7191958,Chordata,Aves,Passeriformes,Emberizidae,passerine,527
+Smiths longspur,Calcarius pictus,,Calcarius,pictus,2491684,Chordata,Aves,Passeriformes,Calcariidae,passerine,138
+snow bunting,Plectrophenax nivalis,,Plectrophenax,nivalis,2491719,Chordata,Aves,Passeriformes,Calcariidae,passerine,836
+song sparrow,Melospiza melodia,,Melospiza,melodia,2492196,Chordata,Aves,Passeriformes,Emberizidae,passerine,617
+spotted towhee,Pipilo maculatus,,Pipilo,maculatus,2491210,Chordata,Aves,Passeriformes,Emberizidae,passerine,818
+Spragues pipit,Anthus spragueii,,Anthus,spragueii,2490268,Chordata,Aves,Passeriformes,Motacillidae,passerine,50
+Stellers jay,Cyanocitta stelleri,,Cyanocitta,stelleri,2482598,Chordata,Aves,Passeriformes,Corvidae,passerine,304
+streak-backed oriole,Icterus pustulatus,,Icterus,pustulatus,5229853,Chordata,Aves,Passeriformes,Icteridae,passerine,515
+sulphur-bellied flycatcher,Myiodynastes luteiventris,,Myiodynastes,luteiventris,2483494,Chordata,Aves,Passeriformes,Tyrannidae,passerine,657
+summer tanager,Piranga rubra,,Piranga,rubra,2488485,Chordata,Aves,Passeriformes,Cardinalidae,passerine,823
+Swainsons thrush,Catharus ustulatus,,Catharus,ustulatus,2490821,Chordata,Aves,Passeriformes,Turdidae,passerine,186
+swamp sparrow,Melospiza georgiana,,Melospiza,georgiana,2492235,Chordata,Aves,Passeriformes,Emberizidae,passerine,615
+Tennessee warbler,Oreothlypis peregrina,,Oreothlypis,peregrina,6093759,Chordata,Aves,Passeriformes,Parulidae,passerine,1205
+thick-billed kingbird,Tyrannus crassirostris,,Tyrannus,crassirostris,5229690,Chordata,Aves,Passeriformes,Tyrannidae,passerine,1182
+thrush (unknown),Catharus sp.,,Catharus,sp.,2490799,Chordata,Aves,Passeriformes,Turdidae,passerine,185
+Townsends solitaire,Myadestes townsendi,,Myadestes,townsendi,2490849,Chordata,Aves,Passeriformes,Turdidae,passerine,651
+Townsends warbler,Dendroica townsendi,,Dendroica,townsendi,2489882,Chordata,Aves,Passeriformes,Parulidae,passerine,340
+tree swallow,Tachycineta bicolor,,Tachycineta,bicolor,2489181,Chordata,Aves,Passeriformes,Hirundinidae,passerine,1120
+tropical kingbird,Tyrannus melancholicus,,Tyrannus,melancholicus,5229662,Chordata,Aves,Passeriformes,Tyrannidae,passerine,1184
+varied thrush,Ixoreus naevius,,Ixoreus,naevius,2490926,Chordata,Aves,Passeriformes,Turdidae,passerine,520
+veery,Catharus fuscescens,,Catharus,fuscescens,2490804,Chordata,Aves,Passeriformes,Turdidae,passerine,182
+verdin,Auriparus flaviceps,,Auriparus,flaviceps,2487397,Chordata,Aves,Passeriformes,Remizidae,passerine,78
+vermilion flycatcher,Pyrocephalus rubinus,,Pyrocephalus,rubinus,2483647,Chordata,Aves,Passeriformes,Tyrannidae,passerine,953
+violet-green swallow,Tachycineta thalassina,,Tachycineta,thalassina,5230754,Chordata,Aves,Passeriformes,Hirundinidae,passerine,1121
+vireo (unknown),Vireo sp.,,Vireo,sp.,2487406,Chordata,Aves,Passeriformes,Vireonidae,passerine,1225
+Virginias warbler,Oreothlypis virginiae,,Oreothlypis,virginiae,6093686,Chordata,Aves,Passeriformes,Parulidae,passerine,1208
+warbling vireo,Vireo gilvus,,Vireo,gilvus,2487446,Chordata,Aves,Passeriformes,Vireonidae,passerine,1219
+western bluebird,Sialia mexicana,,Sialia,mexicana,2490936,Chordata,Aves,Passeriformes,Turdidae,passerine,1038
+western kingbird,Tyrannus verticalis,,Tyrannus,verticalis,5229675,Chordata,Aves,Passeriformes,Tyrannidae,passerine,1186
+western meadowlark,Sturnella neglecta,,Sturnella,neglecta,2484277,Chordata,Aves,Passeriformes,Icteridae,passerine,1104
+western scrub-jay,Aphelocoma californica,,Aphelocoma,californica,2482414,Chordata,Aves,Passeriformes,Corvidae,passerine,56
+western tanager,Piranga ludoviciana,,Piranga,ludoviciana,2488484,Chordata,Aves,Passeriformes,Cardinalidae,passerine,821
+western wood-pewee,Contopus sordidulus,,Contopus,sordidulus,5229754,Chordata,Aves,Passeriformes,Tyrannidae,passerine,266
+white-breasted nuthatch,Sitta carolinensis,,Sitta,carolinensis,2484892,Chordata,Aves,Passeriformes,Sittidae,passerine,1042
+white-crowned sparrow,Zonotrichia leucophrys,,Zonotrichia,leucophrys,5231132,Chordata,Aves,Passeriformes,Emberizidae,passerine,1251
+white-throated sparrow,Zonotrichia albicollis,,Zonotrichia,albicollis,5231140,Chordata,Aves,Passeriformes,Emberizidae,passerine,1249
+white-winged crossbill,Loxia leucoptera,,Loxia,leucoptera,8144830,Chordata,Aves,Passeriformes,Fringillidae,passerine,593
+willow flycatcher,Empidonax traillii,,Empidonax,traillii,2482786,Chordata,Aves,Passeriformes,Tyrannidae,passerine,384
+Wilsons warbler,Wilsonia pusilla,,Wilsonia,pusilla,4408920,Chordata,Aves,Passeriformes,Parulidae,passerine,1236
+winter wren,Troglodytes troglodytes,,Troglodytes,troglodytes,5231438,Chordata,Aves,Passeriformes,Troglodytidae,passerine,1167
+wood thrush,Hylocichla mustelina,,Hylocichla,mustelina,2490872,Chordata,Aves,Passeriformes,Turdidae,passerine,504
+worm-eating warbler,Helmitheros vermivorus,,Helmitheros,vermivorus,2489603,Chordata,Aves,Passeriformes,Parulidae,passerine,494
+yellow warbler,Dendroica petechia,,Dendroica,petechia,2489932,Chordata,Aves,Passeriformes,Parulidae,passerine,336
+yellow-bellied flycatcher,Empidonax flaviventris,,Empidonax,flaviventris,2482785,Chordata,Aves,Passeriformes,Tyrannidae,passerine,378
+yellow-green vireo,Vireo flavoviridis,,Vireo,flavoviridis,2487426,Chordata,Aves,Passeriformes,Vireonidae,passerine,1218
+yellow-headed blackbird,Xanthocephalus xanthocephalus,,Xanthocephalus,xanthocephalus,2484195,Chordata,Aves,Passeriformes,Icteridae,passerine,1238
+yellow-rumped warbler,Dendroica coronata,,Dendroica,coronata,2489896,Chordata,Aves,Passeriformes,Parulidae,passerine,324
+yellow-throated vireo,Vireo flavifrons,,Vireo,flavifrons,2487453,Chordata,Aves,Passeriformes,Vireonidae,passerine,1217
+yellow-throated warbler,Dendroica dominica,,Dendroica,dominica,2489889,Chordata,Aves,Passeriformes,Parulidae,passerine,328
+gnatcatcher (unknown),Polioptila sp.,,Polioptila,sp.,2487581,Chordata,Aves,Passeriformes,Polioptilidae,passerine,1256
+oriole (unknown),Icterus sp.,,Icterus,sp.,2484282,Chordata,Aves,Passeriformes,Icteridae,passerine,1257
+bluebird (unknown),Sialia sp.,,Sialia,sp.,2490934,Chordata,Aves,Passeriformes,Turdidae,passerine,1301
+nuthatch (unknown),Sitta sp.,,Sitta,sp.,2484878,Chordata,Aves,Passeriformes,Sittidae,passerine,1307
+shrike (unknown),Lanius sp.,,Lanius,sp.,2483315,Chordata,Aves,Passeriformes,Laniidae,passerine,1309
+black rosy-finch,Leucosticte atrata,,Leucosticte,atrata,2494372,Chordata,Aves,Passeriformes,Fringillidae,passerine,581
+juniper titmouse,Baeolophus ridgwayi,,Baeolophus,ridgwayi,2487898,Chordata,Aves,Passeriformes,Paridae,passerine,85
+Bendires thrasher,Toxostoma bendirei,,Toxostoma,bendirei,5231697,Chordata,Aves,Passeriformes,Mimidae,passerine,1153
+Brewers sparrow,Spizella breweri,,Spizella,breweri,2492099,Chordata,Aves,Passeriformes,Emberizidae,passerine,1080
+tricolored blackbird,Agelaius tricolor,,Agelaius,tricolor,2484445,Chordata,Aves,Passeriformes,Icteridae,passerine,12
+pinyon jay,Gymnorhinus cyanocephalus,,Gymnorhinus,cyanocephalus,2482615,Chordata,Aves,Passeriformes,Corvidae,passerine,483
+gray vireo,Vireo vicinior,,Vireo,vicinior,2487411,Chordata,Aves,Passeriformes,Vireonidae,passerine,1226
+sage thrasher,Oreoscoptes montanus,,Oreoscoptes,montanus,2494973,Chordata,Aves,Passeriformes,Mimidae,passerine,730
+olive-sided flycatcher,Contopus cooperi,,Contopus,cooperi,9192348,Chordata,Aves,Passeriformes,Tyrannidae,passerine,264
+bobolink,Dolichonyx oryzivorus,,Dolichonyx,oryzivorus,2484417,Chordata,Aves,Passeriformes,Icteridae,passerine,356
+vesper sparrow,Pooecetes gramineus,,Pooecetes,gramineus,2491728,Chordata,Aves,Passeriformes,Emberizidae,passerine,864
+Lucys warbler,Oreothlypis luciae,,Oreothlypis,luciae,6093718,Chordata,Aves,Passeriformes,Parulidae,passerine,1204
+crissal thrasher,Toxostoma crissale,,Toxostoma,crissale,5231693,Chordata,Aves,Passeriformes,Mimidae,passerine,1154
+Le Contes thrasher,Toxostoma lecontei,,Toxostoma,lecontei,5231703,Chordata,Aves,Passeriformes,Mimidae,passerine,1156
+gray-crowned rosy-finch,Leucosticte tephrocotis,,Leucosticte,tephrocotis,2494360,Chordata,Aves,Passeriformes,Fringillidae,passerine,582
+Arizona Bells vireo,Vireo bellii arizonae,,Vireo,bellii,6175221,Chordata,Aves,Passeriformes,Vireonidae,passerine,1215
+loggerhead shrike,Lanius ludovicianus,,Lanius,ludovicianus,2492870,Chordata,Aves,Passeriformes,Laniidae,passerine,537
+yellow-breasted chat,Icteria virens,,Icteria,virens,2489989,Chordata,Aves,Passeriformes,Parulidae,passerine,510
+Great Basin willow flycatcher,Empidonax traillii adastus,,Empidonax,traillii,6174857,Chordata,Aves,Passeriformes,Tyrannidae,passerine,385
+phainopepla,Phainopepla nitens,,Phainopepla,nitens,2492885,Chordata,Aves,Passeriformes,Ptilogonatidae,passerine,777
+southwestern willow flycatcher,Empidonax traillii extimus,,Empidonax,traillii,6174856,Chordata,Aves,Passeriformes,Tyrannidae,passerine,387
+mountain willow flycatcher,Empidonax traillii brewsteri,,Empidonax,traillii,6174855,Chordata,Aves,Passeriformes,Tyrannidae,passerine,386
+acorn woodpecker,Melanerpes formicivorus,,Melanerpes,formicivorus,2478133,Chordata,Aves,Piciformes,Picidae,pico,606
+black-backed woodpecker,Picoides arcticus,,Picoides,arcticus,2477774,Chordata,Aves,Piciformes,Picidae,pico,804
+downy woodpecker,Picoides pubescens,,Picoides,pubescens,2477781,Chordata,Aves,Piciformes,Picidae,pico,807
+Gila woodpecker,Melanerpes uropygialis,,Melanerpes,uropygialis,2478112,Chordata,Aves,Piciformes,Picidae,pico,608
+gilded flicker,Colaptes chrysoides,,Colaptes,chrysoides,2478248,Chordata,Aves,Piciformes,Picidae,pico,249
+hairy woodpecker,Picoides villosus,,Picoides,villosus,2477741,Chordata,Aves,Piciformes,Picidae,pico,811
+ladder-backed woodpecker,Picoides scalaris,,Picoides,scalaris,2477813,Chordata,Aves,Piciformes,Picidae,pico,808
+northern flicker,Colaptes auratus,,Colaptes,auratus,2478259,Chordata,Aves,Piciformes,Picidae,pico,248
+Nuttalls woodpecker,Picoides nuttallii,,Picoides,nuttallii,2477733,Chordata,Aves,Piciformes,Picidae,pico,806
+pileated woodpecker,Dryocopus pileatus,,Dryocopus,pileatus,5228824,Chordata,Aves,Piciformes,Picidae,pico,359
+red-breasted sapsucker,Sphyrapicus ruber,,Sphyrapicus,ruber,2478597,Chordata,Aves,Piciformes,Picidae,pico,1073
+red-headed woodpecker,Melanerpes erythrocephalus,,Melanerpes,erythrocephalus,2478130,Chordata,Aves,Piciformes,Picidae,pico,605
+three-toed woodpecker,Picoides tridactylus,,Picoides,tridactylus,2477804,Chordata,Aves,Piciformes,Picidae,pico,810
+Williamsons sapsucker,Sphyrapicus thyroideus,,Sphyrapicus,thyroideus,2478602,Chordata,Aves,Piciformes,Picidae,pico,1074
+woodpecker (unknown),Picoides sp.,,Picoides,sp.,2477732,Chordata,Aves,Piciformes,Picidae,pico,809
+yellow-bellied sapsucker,Sphyrapicus varius,,Sphyrapicus,varius,2478605,Chordata,Aves,Piciformes,Picidae,pico,1075
+sapsucker (unknown),Sphyrapicus sp.,,Sphyrapicus,sp.,2478596,Chordata,Aves,Piciformes,Picidae,pico,1300
+American three-toed woodpecker,Picoides dorsalis,,Picoides,dorsalis,2477797,Chordata,Aves,Piciformes,Picidae,pico,805
+white-headed woodpecker,Picoides albolarvatus,,Picoides,albolarvatus,2477775,Chordata,Aves,Piciformes,Picidae,pico,803
+red-naped sapsucker,Sphyrapicus nuchalis,,Sphyrapicus,nuchalis,2478608,Chordata,Aves,Piciformes,Picidae,pico,1072
+Lewiss woodpecker,Melanerpes lewis,,Melanerpes,lewis,2478142,Chordata,Aves,Piciformes,Picidae,pico,607
+Clarks grebe,Aechmophorus clarkii,,Aechmophorus,clarkii,2482032,Chordata,Aves,Podicipediformes,Podicipedidae,waterfowl,7
+eared grebe,Podiceps nigricollis,,Podiceps,nigricollis,2482065,Chordata,Aves,Podicipediformes,Podicipedidae,waterfowl,850
+horned grebe,Podiceps auritus,,Podiceps,auritus,2482059,Chordata,Aves,Podicipediformes,Podicipedidae,waterfowl,848
+least grebe,Tachybaptus dominicus,,Tachybaptus,dominicus,2482044,Chordata,Aves,Podicipediformes,Podicipedidae,waterfowl,1119
+pied-billed grebe,Podilymbus podiceps,,Podilymbus,podiceps,2482077,Chordata,Aves,Podicipediformes,Podicipedidae,waterfowl,851
+red-necked grebe,Podiceps grisegena,,Podiceps,grisegena,2482051,Chordata,Aves,Podicipediformes,Podicipedidae,waterfowl,849
+western grebe,Aechmophorus occidentalis,,Aechmophorus,occidentalis,2482033,Chordata,Aves,Podicipediformes,Podicipedidae,waterfowl,8
+barn owl,Tyto alba,,Tyto,alba,2497921,Chordata,Aves,Strigiformes,Tytonidae,owls,1188
+elf owl,Micrathene whitneyi,,Micrathene,whitneyi,2497430,Chordata,Aves,Strigiformes,Strigidae,owls,621
+great gray owl,Strix nebulosa,,Strix,nebulosa,2497522,Chordata,Aves,Strigiformes,Strigidae,owls,1102
+great horned owl,Bubo virginianus,,Bubo,virginianus,5959118,Chordata,Aves,Strigiformes,Strigidae,owls,106
+northern pygmy-owl,Glaucidium gnoma,,Glaucidium,gnoma,5232153,Chordata,Aves,Strigiformes,Strigidae,owls,470
+northern saw-whet owl,Aegolius acadicus,,Aegolius,acadicus,5232207,Chordata,Aves,Strigiformes,Strigidae,owls,9
+western screech-owl,Megascops kennicottii,,Megascops,kennicottii,2497341,Chordata,Aves,Strigiformes,Strigidae,owls,604
+short-eared owl,Asio flammeus,,Asio,flammeus,2497295,Chordata,Aves,Strigiformes,Strigidae,owls,71
+long-eared owl,Asio otus,,Asio,otus,2497306,Chordata,Aves,Strigiformes,Strigidae,owls,72
+California spotted owl,Strix occidentalis occidentalis,,Strix,occidentalis,7191276,Chordata,Aves,Strigiformes,Strigidae,owls,1103
+burrowing owl,Athene cunicularia,,Athene,cunicularia,2497240,Chordata,Aves,Strigiformes,Strigidae,owls,77
+flammulated owl,Otus flammeolus,,Otus,flammeolus,5232325,Chordata,Aves,Strigiformes,Strigidae,owls,733
+Oregon floater,Anodonta oregonensis,,Anodonta,oregonensis,2287931,Mollusca,Bivalvia,Unionoida,Unionidae,bivalve,45
+western pearlshell,Margaritifera falcata,,Margaritifera,falcata,2287872,Mollusca,Bivalvia,Unionoida,Margaritiferidae,bivalve,598
+western ridged mussel,Gonidea angulata,,Gonidea,angulata,2287883,Mollusca,Bivalvia,Unionoida,Unionidae,bivalve,473
+winged floater,Anodonta nuttalliana,,Anodonta,nuttalliana,2287929,Mollusca,Bivalvia,Unionoida,Unionidae,bivalve,44
+Woebegone floater,Anodonta dejecta,,Anodonta,dejecta,2287937,Mollusca,Bivalvia,Unionoida,Unionidae,bivalve,43
+California floater,Anodonta californiensis,,Anodonta,californiensis,2287936,Mollusca,Bivalvia,Unionoida,Unionidae,bivalve,42
+fingernail clam (unknown),Pisidium sp.,,Pisidium,sp.,2286678,Mollusca,Bivalvia,Veneroida,Sphaeriidae,bivalve,825
+Herrington fingernail clam,Sphaerium occidentale,,Sphaerium,occidentale,5189019,Mollusca,Bivalvia,Veneroida,Sphaeriidae,bivalve,1070
+quagga mussel,Dreissena bugensis,,Dreissena,bugensis,2287073,Mollusca,Bivalvia,Veneroida,Dreissenidae,bivalve,358
+Rocky Mountain fingernail clam,Sphaerium patella,,Sphaerium,patella,5189018,Mollusca,Bivalvia,Veneroida,Sphaeriidae,bivalve,1071
+triangular peaclam,Pisidium variabile,,Pisidium,variabile,2286689,Mollusca,Bivalvia,Veneroida,Sphaeriidae,bivalve,826
+ubiquitous peaclam,Pisidium casertanum,,Pisidium,casertanum,2286685,Mollusca,Bivalvia,Veneroida,Sphaeriidae,bivalve,824
+golden freshwater clam,Corbicula fluminea,,Corbicula,fluminea,8190231,Mollusca,Bivalvia,Veneroida,Cyrenidae,bivalve,1273
+alkali fairy shrimp,Branchinecta mackini,,Branchinecta,mackini,2235349,Arthropoda,Branchiopoda,Anostraca,Branchinectidae,crustacean,102
+beavertail fairy shrimp,Thamnocephalus platyurus,,Thamnocephalus,platyurus,4806113,Arthropoda,Branchiopoda,Anostraca,Thamnocephalidae,crustacean,1132
+Colorado fairy shrimp,Branchinecta coloradensis,,Branchinecta,coloradensis,2235373,Arthropoda,Branchiopoda,Anostraca,Branchinectidae,crustacean,98
+Dissimilar fairy shrimp,Branchinecta dissimilis,,Branchinecta,dissimilis,2235365,Arthropoda,Branchiopoda,Anostraca,Branchinectidae,crustacean,99
+giant fairy shrimp,Branchinecta gigas,,Branchinecta,gigas,2235362,Arthropoda,Branchiopoda,Anostraca,Branchinectidae,crustacean,100
+mountain fairy shrimp,Branchinecta sp. 4,,Branchinecta,sp.,9040651,Arthropoda,Branchiopoda,Anostraca,Branchinectidae,crustacean,103
+San Francisco brine shrimp,Artemia franciscana,,Artemia,franciscana,5180091,Arthropoda,Branchiopoda,Anostraca,Artemiidae,crustacean,70
+versitile fairy shrimp,Branchinecta lindahli,,Branchinecta,lindahli,2235379,Arthropoda,Branchiopoda,Anostraca,Branchinectidae,crustacean,101
+straightbacked clam shrimp,Eocyzicus digueti,,Eocyzicus,digueti,2234638,Arthropoda,Branchiopoda,Diplostraca,Cyzicidae,crustacean,389
+bilobed tadpole shrimp,Lepidurus bilobatus,,Lepidurus,bilobatus,5180069,Arthropoda,Branchiopoda,Notostraca,Triopsidae,crustacean,565
+lemon tadpole shrimp,Lepidurus lemmoni,,Lepidurus,lemmoni,5180072,Arthropoda,Branchiopoda,Notostraca,Triopsidae,crustacean,566
+tadpole shrimp (unknown),Lepidurus sp.,,Lepidurus,sp.,2235049,Arthropoda,Branchiopoda,Notostraca,Triopsidae,crustacean,567
+tadpole shrimp (unknown),Triops sp.,,Triops,sp.,2235057,Arthropoda,Branchiopoda,Notostraca,Triopsidae,crustacean,1165
+cutbow trout,Oncorhynchus mykiss x Oncorhynchus clarkii,,Oncorhynchus,mykiss,,data,data,data,data,salmonid,708
+tiger trout,Salmo trutta x Salvelinus fontinalis,,Salmo,trutta,,data,data,data,data,salmonid,1003
+razorback x flannelmouth sucker (hybrid),Xyrauchen texanus x Catostomus latipinnis,,Xyrauchen,texanus,,data,data,data,data,ostariophysian,1288
+freshwater snail,Vorticifex solida,,Vorticifex,solida,2291012,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,1230
+artemesian rams-horn,Vorticifex effusa,,Vorticifex,effusa,2291009,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,1228
+ash gyro,Gyraulus parvus,,Gyraulus,parvus,2290996,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,485
+big-eared radix,Radix auricularia,,Radix,auricularia,5189888,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,959
+carib fossaria,Fossaria cubensis,,Fossaria,cubensis,5189870,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,421
+opossum shrimp,Mysis diluviana,,Mysis,diluviana,5864037,Arthropoda,Malacostraca,Mysida,Mysidae,crustacean,1278
+creeping ancylid,Ferrissia rivularis,,Ferrissia,rivularis,2291157,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,412
+Dall rams-horn,Vorticifex effusus,,Vorticifex,effusus,2291009,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,1229
+desert physa,Physella boucardi,,Physella,boucardi,5189793,Mollusca,Gastropoda,Hygrophila,Physidae,gastropod,797
+disc gyro,Gyraulus circumstriatus,,Gyraulus,circumstriatus,2290992,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,484
+fine-lined rams-horn,Planorbella occidentalis,,Planorbella,occidentalis,5189735,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,831
+Fish Springs marshsnail,Stagnicola pilsbryi,,Stagnicola,pilsbryi,5189905,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,1089
+fossaria (unknown),Fossaria sp.,,Fossaria,sp.,3261473,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,425
+glass physa,Physa skinneri,,Physa,skinneri,5189774,Mollusca,Gastropoda,Hygrophila,Physidae,gastropod,795
+golden fossaria,Fossaria obrussa,,Fossaria,obrussa,5189868,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,423
+Great Basin rams-horn,Helisoma newberryi newberryi,,Helisoma,newberryi,5189725,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,492
+gyro (unknown),Gyraulus sp.,,Gyraulus,sp.,2290991,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,486
+lance aplexa,Aplexa elongata,,Aplexa,elongata,2291095,Mollusca,Gastropoda,Hygrophila,Physidae,gastropod,58
+limpet (unknown),Lanx sp.,,Lanx,sp.,2291239,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,538
+marsh pondsnail,Stagnicola elodes,,Stagnicola,elodes,5189907,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,1086
+marsh rams-horn,Planorbella trivolvis,,Planorbella,trivolvis,5189748,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,834
+Mexican rams-horn,Planorbella tenuis,,Planorbella,tenuis,5189744,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,833
+mountain marshsnail,Stagnicola montanensis,,Stagnicola,montanensis,5189908,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,1088
+prairie fossaria,Fossaria bulimoides,,Fossaria,bulimoides,5189885,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,420
+protean physa,Physella virgata,,Physella,virgata,5189802,Mollusca,Gastropoda,Hygrophila,Physidae,gastropod,801
+pygmy fossaria,Fossaria parva,,Fossaria,parva,5189883,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,424
+rams-horn (unknown),Helisoma sp.,,Helisoma,sp.,5189721,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,493
+rock fossaria,Fossaria modicella,,Fossaria,modicella,5189880,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,422
+Rocky Mountain physa,Physella propinqua,,Physella,propinqua,5189799,Mollusca,Gastropoda,Hygrophila,Physidae,gastropod,800
+rough rams-horn,Planorbella subcrenata,,Planorbella,subcrenata,5189733,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,832
+snail,Parapholyx enfusa,,Parapholyx,enfusa,2290960,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,747
+St. Lawrence pondsnail,Stagnicola emarginata,,Stagnicola,emarginata,5189899,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,1087
+swamp lymnaea,Lymnaea stagnalis,,Lymnaea,stagnalis,2291253,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,594
+tadpole physa,Physella gyrina,,Physella,gyrina,5189789,Mollusca,Gastropoda,Hygrophila,Physidae,gastropod,798
+twisted Physa,Physella lordi,,Physella,lordi,5189790,Mollusca,Gastropoda,Hygrophila,Physidae,gastropod,799
+two-ridge rams-horn,Helisoma anceps,,Helisoma,anceps,5189722,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,491
+umbilicate sprite,Promenetus umbilicatellus,,Promenetus,umbilicatellus,2290959,Mollusca,Gastropoda,Hygrophila,Planorbidae,gastropod,872
+wrinkled marshsnail,Stagnicola caperata,,Stagnicola,caperata,5189897,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,gastropod,1085
+Badwater snail,Assiminea infima,,Assiminea,infima,2301952,Mollusca,Gastropoda,Littorinimorpha,Assimineidae,gastropod,75
+ashy pebblesnail,Fluminicola hindsi,,Fluminicola,hindsi,5192433,Mollusca,Gastropoda,Littorinimorpha,Lithoglyphidae,gastropod,414
+assiminea (unknown),Assiminea sp.,,Assiminea,sp.,2301943,Mollusca,Gastropoda,Littorinimorpha,Assimineidae,gastropod,76
+corded pyrg,Pyrgulopsis nevadensis,,Pyrgulopsis,nevadensis,8256411,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,929
+deep springs snail,Fontelicella nevadensis,,Fontelicella,nevadensis,2300164,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,418
+desert tryonia,Tryonia porrecta,,Tryonia,porrecta,8992635,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,1175
+Fish Lake pyrg,Pyrgulopsis ruinosa,,Pyrgulopsis,ruinosa,9113754,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,939
+fontecella (unknown),Fontelicella sp.,,Fontelicella,sp.,2300164,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,419
+Owens Valley pyrg,Pyrgulopsis owensensis,,Pyrgulopsis,owensensis,2299981,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,932
+springsnail (unknown),Pyrgulopsis sp.,,Pyrgulopsis,sp.,2299969,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,943
+Surprise Valley pyrg,Pyrgulopsis gibba,,Pyrgulopsis,gibba,2300008,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,906
+Toquerville pyrg,Pyrgulopsis kolobensis,,Pyrgulopsis,kolobensis,2300005,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,913
+northern Soldier Meadow pyrg,Pyrgulopsis militaris,,Pyrgulopsis,militaris,9003146,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,924
+Steptoe hydrobe,Eremopyrgus eganensis,,Eremopyrgus,eganensis,7725549,Mollusca,Gastropoda,Littorinimorpha,Cochliopidae,gastropod,395
+Elko pyrg,Pyrgulopsis leporina,,Pyrgulopsis,leporina,9054535,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,917
+neritiform Steptoe Ranch pyrg,Pyrgulopsis neritella,,Pyrgulopsis,neritella,9115593,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,928
+sub-globose Steptoe Ranch pyrg,Pyrgulopsis orbiculata,,Pyrgulopsis,orbiculata,8929002,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,931
+northern Steptoe pyrg,Pyrgulopsis serrata,,Pyrgulopsis,serrata,8763009,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,942
+Amargosa tryonia,Tryonia variegata,,Tryonia,variegata,5192403,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,1177
+elongate-gland pyrg,Pyrgulopsis isolata,,Pyrgulopsis,isolata,2300016,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,912
+White River Valley pyrg,Pyrgulopsis sathos,,Pyrgulopsis,sathos,9191372,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,941
+Landyes pyrg,Pyrgulopsis landyei,,Pyrgulopsis,landyei,9168237,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,914
+Hubbs pyrg,Pyrgulopsis hubbsi,,Pyrgulopsis,hubbsi,9152408,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,909
+bifid duct pyrg,Pyrgulopsis peculiaris,,Pyrgulopsis,peculiaris,9110250,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,934
+Lake Valley pyrg,Pyrgulopsis sublata,,Pyrgulopsis,sublata,8954269,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,945
+minute tryonia,Tryonia ericae,,Tryonia,ericae,5192414,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,1173
+Pyramid Lake pebblesnail,Fluminicola dalli,,Fluminicola,dalli,5192426,Mollusca,Gastropoda,Littorinimorpha,Lithoglyphidae,gastropod,413
+Fairbanks pyrg,Pyrgulopsis fairbanksensis,,Pyrgulopsis,fairbanksensis,2300019,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,904
+southern Soldier Meadow pyrg,Pyrgulopsis umbilicata,,Pyrgulopsis,umbilicata,9092893,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,948
+flag pyrg,Pyrgulopsis breviloba,,Pyrgulopsis,breviloba,8784607,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,893
+distal-gland pyrg,Pyrgulopsis nanus,,Pyrgulopsis,nanus,2300023,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,927
+southern Steptoe pyrg,Pyrgulopsis sulcata,,Pyrgulopsis,sulcata,9181021,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,946
+northwest Bonneville pyrg,Pyrgulopsis variegata,,Pyrgulopsis,variegata,8906127,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,949
+Antelope Valley pyrg,Pyrgulopsis pellita,,Pyrgulopsis,pellita,9157901,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,935
+carinate Duckwater pyrg,Pyrgulopsis carinata,,Pyrgulopsis,carinata,8775530,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,896
+Kings River pyrg,Pyrgulopsis imperialis,,Pyrgulopsis,imperialis,8837361,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,911
+longitudinal gland pyrg,Pyrgulopsis anguina,,Pyrgulopsis,anguina,9056414,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,887
+grated tryonia,Tryonia clathrata,,Tryonia,clathrata,5192404,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,1171
+Big Warm Spring pyrg,Pyrgulopsis papillata,,Pyrgulopsis,papillata,9047790,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,933
+Ash Meadows pebblesnail,Pyrgulopsis erythropoma,,Pyrgulopsis,erythropoma,2300030,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,903
+elongate Mud Meadows pyrg,Pyrgulopsis notidicola,,Pyrgulopsis,notidicola,9139724,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,930
+vineyards pyrg,Pyrgulopsis vinyardi,,Pyrgulopsis,vinyardi,8962577,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,951
+large gland Carico pyrg,Pyrgulopsis basiglans,,Pyrgulopsis,basiglans,8871441,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,891
+small gland Carico pyrg,Pyrgulopsis bifurcata,,Pyrgulopsis,bifurcata,8955682,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,892
+Lockes pyrg,Pyrgulopsis lockensis,,Pyrgulopsis,lockensis,8795922,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,919
+Butterfield pyrg,Pyrgulopsis lata,,Pyrgulopsis,lata,8824535,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,915
+Moapa pebblesnail,Pyrgulopsis avernalis,,Pyrgulopsis,avernalis,2300018,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,890
+Virginia Mountains pebblesnail,Fluminicola virginius,,Fluminicola,virginius,8954529,Mollusca,Gastropoda,Littorinimorpha,Lithoglyphidae,gastropod,417
+ovate Cain Spring pyrg,Pyrgulopsis pictilis,,Pyrgulopsis,pictilis,9131022,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,936
+median-gland Nevada pyrg,Pyrgulopsis pisteri,,Pyrgulopsis,pisteri,2299996,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,937
+southeast Nevada pyrg,Pyrgulopsis turbatrix,,Pyrgulopsis,turbatrix,7738803,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,947
+sportinggoods tryonia,Tryonia angulata,,Tryonia,angulata,5192406,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,1170
+squat Mud Meadows pyrg,Pyrgulopsis limaria,,Pyrgulopsis,limaria,8960780,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,918
+Blue Point pyrg,Pyrgulopsis coloradensis,,Pyrgulopsis,coloradensis,9122383,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,898
+Camp Valley pyrg,Pyrgulopsis montana,,Pyrgulopsis,montana,8808727,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,926
+western Lahontan pyrg,Pyrgulopsis longiglans,,Pyrgulopsis,longiglans,9078957,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,920
+Crittenden pyrg,Pyrgulopsis lentiglans,,Pyrgulopsis,lentiglans,9175535,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,916
+southern Duckwater pyrg,Pyrgulopsis anatina,,Pyrgulopsis,anatina,9147014,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,886
+Point of Rocks tryonia,Tryonia elata,,Tryonia,elata,5192408,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,1172
+Sterile Basin pyrg,Pyrgulopsis sterilis,,Pyrgulopsis,sterilis,8803861,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,944
+flat-topped Steptoe pyrg,Pyrgulopsis planulata,,Pyrgulopsis,planulata,8912595,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,938
+hardy pyrg,Pyrgulopsis marcida,,Pyrgulopsis,marcida,9099735,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,921
+Corn Creek pyrg,Pyrgulopsis fausta,,Pyrgulopsis,fausta,9213157,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,905
+Cortez Hills (Carlin) pebblesnail,Pyrgulopsis bryantwalkeri,,Pyrgulopsis,bryantwalkeri,2300021,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,895
+Pahranagat pebblesnail,Pyrgulopsis merriami,,Pyrgulopsis,merriami,2300020,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,922
+Sadas pyrg,Pyrgulopsis sadai,,Pyrgulopsis,sadai,8859698,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,940
+Wongs pyrg,Pyrgulopsis wongi,,Pyrgulopsis,wongi,2299991,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,952
+upper Thousand Spring pyrg,Pyrgulopsis hovinghi,,Pyrgulopsis,hovinghi,8856620,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,908
+Humboldt pyrg,Pyrgulopsis humboldtensis,,Pyrgulopsis,humboldtensis,8848608,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,910
+elongate Cain Spring pyrg,Pyrgulopsis augustae,,Pyrgulopsis,augustae,9085736,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,888
+Duckwater Warm Springs pyrg,Pyrgulopsis villacampae,,Pyrgulopsis,villacampae,9195413,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,950
+Dixie Valley pyrg,Pyrgulopsis dixensis,,Pyrgulopsis,dixensis,9006406,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,902
+Monitor tryonia,Tryonia monitorae,,Tryonia,monitorae,8942293,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,1174
+turban pebblesnail,Fluminicola turbiniformis,,Fluminicola,turbiniformis,5192427,Mollusca,Gastropoda,Littorinimorpha,Lithoglyphidae,gastropod,416
+Twenty-one Mile pyrg,Pyrgulopsis millenaria,,Pyrgulopsis,millenaria,9094377,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,925
+Emigrant pyrg,Pyrgulopsis gracilis,,Pyrgulopsis,gracilis,8935817,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,907
+Moapa Valley pyrg,Pyrgulopsis carinifera,,Pyrgulopsis,carinifera,2299999,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,897
+transverse gland pyrg,Pyrgulopsis cruciglans,,Pyrgulopsis,cruciglans,5784298,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,899
+Fly Ranch pyrg,Pyrgulopsis bruesi,,Pyrgulopsis,bruesi,8817926,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,894
+Duckwater pyrg,Pyrgulopsis aloba,,Pyrgulopsis,aloba,5784297,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,885
+Spring Mountains pyrg,Pyrgulopsis deaconi,,Pyrgulopsis,deaconi,8742763,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,901
+Crystal Spring pyrg,Pyrgulopsis crystalis,,Pyrgulopsis,crystalis,2300024,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,900
+Oasis Valley pyrg,Pyrgulopsis micrococcus,,Pyrgulopsis,micrococcus,2299987,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,923
+Pleasant Valley pyrg,Pyrgulopsis aurata,,Pyrgulopsis,aurata,8791117,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,889
+Varners pyrg,Pyrgulopsis varneri,,Pyrgulopsis,varneri,8977434,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,gastropod,1265
+ambersnail (unknown),Oxyloma sp.,,Oxyloma,sp.,7921295,Mollusca,Gastropoda,Stylommatophora,Succineidae,gastropod,740
+black-footed tightcoil,Pristiloma chersinella,,Pristiloma,chersinella,2295349,Mollusca,Gastropoda,Stylommatophora,Zonitidae,gastropod,867
+brown hive,Euconulus fulvus,,Euconulus,fulvus,4304721,Mollusca,Gastropoda,Stylommatophora,Helicarionidae,gastropod,398
+carved glyph,Glyphyalinia indentata,,Glyphyalinia,indentata,2295378,Mollusca,Gastropoda,Stylommatophora,Zonitidae,gastropod,472
+chrome ambersnail,Catinella rehderi,,Catinella,rehderi,5191205,Mollusca,Gastropoda,Stylommatophora,Succineidae,gastropod,189
+crestless column,Pupilla hebes,,Pupilla,hebes,5190467,Mollusca,Gastropoda,Stylommatophora,Pupillidae,gastropod,882
+cross vertigo,Vertigo modesta,,Vertigo,modesta,9127721,Mollusca,Gastropoda,Stylommatophora,Vertiginidae,gastropod,1212
+cylindrical vertigo,Vertigo binneyana,,Vertigo,binneyana,2293993,Mollusca,Gastropoda,Stylommatophora,Vertiginidae,gastropod,1209
+forest disc,Discus whitneyi,,Discus,whitneyi,5190494,Mollusca,Gastropoda,Stylommatophora,Discidae,gastropod,355
+Humboldt ambersnail,Oxyloma sillimani,,Oxyloma,sillimani,5191187,Mollusca,Gastropoda,Stylommatophora,Succineidae,gastropod,739
+Kyle Canyon mountainsnail,Oreohelix jaegeri,,Oreohelix,jaegeri,2293916,Mollusca,Gastropoda,Stylommatophora,Oreohelicidae,gastropod,723
+lehmania (slug),Lehmania valentianus,,Lehmania,valentianus,5190784,Mollusca,Gastropoda,Stylommatophora,Limacidae,gastropod,557
+lyrate mountainsnail,Oreohelix haydeni,,Oreohelix,haydeni,2293937,Mollusca,Gastropoda,Stylommatophora,Oreohelicidae,gastropod,721
+meadow slug,Deroceras laeve,,Deroceras,laeve,5781358,Mollusca,Gastropoda,Stylommatophora,Limacidae,gastropod,342
+minute gem,Hawaiia minuscula,,Hawaiia,minuscula,2295309,Mollusca,Gastropoda,Stylommatophora,Zonitidae,gastropod,489
+mitered vertigo,Vertigo concinnula,,Vertigo,concinnula,2293995,Mollusca,Gastropoda,Stylommatophora,Vertiginidae,gastropod,1210
+mottled taildropper,Prophysaon obscurum,,Prophysaon,obscurum,2294066,Mollusca,Gastropoda,Stylommatophora,Arionidae,gastropod,873
+mountainsnail (unknown),Oreohelix sp.,,Oreohelix,sp.,2293898,Mollusca,Gastropoda,Stylommatophora,Oreohelicidae,gastropod,726
+multirib vallonia,Vallonia gracilicosta,,Vallonia,gracilicosta,2296014,Mollusca,Gastropoda,Stylommatophora,Valloniidae,gastropod,1200
+ninepipes ambersnail,Oxyloma missoula,,Oxyloma,missoula,5191194,Mollusca,Gastropoda,Stylommatophora,Succineidae,gastropod,738
+ovate vertigo,Vertigo ovata,,Vertigo,ovata,2293979,Mollusca,Gastropoda,Stylommatophora,Vertiginidae,gastropod,1213
+pinhead spot,Punctum conspectum,,Punctum,conspectum,4304735,Mollusca,Gastropoda,Stylommatophora,Punctidae,gastropod,880
+quick gloss,Zonitoides arboreus,,Zonitoides,arboreus,2295425,Mollusca,Gastropoda,Stylommatophora,Gastrodontidae,gastropod,1248
+riblet ambersnail,Catinella gabbi,,Catinella,gabbi,5191207,Mollusca,Gastropoda,Stylommatophora,Succineidae,gastropod,188
+Rocky Mountain column,Pupilla blandi,,Pupilla,blandi,5190463,Mollusca,Gastropoda,Stylommatophora,Pupillidae,gastropod,881
+rustic ambersnail,Succinea rusticana,,Succinea,rusticana,2297219,Mollusca,Gastropoda,Stylommatophora,Succineidae,gastropod,1110
+Sierra ambersnail,Catinella stretchiana,,Catinella,stretchiana,5191206,Mollusca,Gastropoda,Stylommatophora,Succineidae,gastropod,191
+silky vallonia,Vallonia cyclophorella,,Vallonia,cyclophorella,2296008,Mollusca,Gastropoda,Stylommatophora,Valloniidae,gastropod,1199
+spruce snail,Microphysula ingersolli,,Microphysula,ingersolli,2294169,Mollusca,Gastropoda,Stylommatophora,Thysanophoridae,gastropod,627
+striate disc,Discus shimekki,,Discus,shimekki,5190489,Mollusca,Gastropoda,Stylommatophora,Discidae,gastropod,354
+thin pillar,Cochlicopa lubricella,,Cochlicopa,lubricella,2295976,Mollusca,Gastropoda,Stylommatophora,Cochlicopidae,gastropod,247
+top-heavy column,Pupilla syngenes,,Pupilla,syngenes,5190464,Mollusca,Gastropoda,Stylommatophora,Pupillidae,gastropod,884
+variable vertigo,Vertigo gouldi,,Vertigo,gouldi,2293985,Mollusca,Gastropoda,Stylommatophora,Vertiginidae,gastropod,1211
+western glass-snail,Vitrina pellucida,,Vitrina,pellucida,2294290,Mollusca,Gastropoda,Stylommatophora,Vitrinidae,gastropod,1227
+widespread column,Pupilla muscorum,,Pupilla,muscorum,5190466,Mollusca,Gastropoda,Stylommatophora,Pupillidae,gastropod,883
+slug,Deroceras pachyostracon,,Deroceras,pachyostracon,5190776,Mollusca,Gastropoda,Stylommatophora,Limacidae,gastropod,1254
+Goshute mountainsnail,Oreohelix loisae,,Oreohelix,loisae,2293898,Mollusca,Gastropoda,Stylommatophora,Oreohelicidae,gastropod,724
+Whitepine mountainsnail,Oreohelix hemphilli,,Oreohelix,hemphilli,2293902,Mollusca,Gastropoda,Stylommatophora,Oreohelicidae,gastropod,722
+Schell Creek mountainsnail,Oreohelix nevadensis,,Oreohelix,nevadensis,2293926,Mollusca,Gastropoda,Stylommatophora,Oreohelicidae,gastropod,725
+depressed rocky mountainsnail,Oreohelix strigosa depressa,,Oreohelix,strigosa,8752532,Mollusca,Gastropoda,Stylommatophora,Oreohelicidae,gastropod,728
+spring mountainsnail,Oreohelix handi,,Oreohelix,handi,2293930,Mollusca,Gastropoda,Stylommatophora,Oreohelicidae,gastropod,720
+black juga,Juga nigrina,,Juga,nigrina,2301994,Mollusca,Gastropoda,,Pleuroceridae,gastropod,523
+glossy valvata,Valvata humeralis,,Valvata,humeralis,2298074,Mollusca,Gastropoda,,Valvatidae,gastropod,1201
+pleuroceridae (unknown),Pleuroceridae sp.,,Pleuroceridae,sp.,2665,Mollusca,Gastropoda,,Pleuroceridae,gastropod,844
+red-rim melania,Melanoides tuberculatus,,Melanoides,tuberculatus,4362965,Mollusca,Gastropoda,,Thiaridae,gastropod,613
+snail (unknown),Melanoides sp.,,Melanoides,sp.,2300936,Mollusca,Gastropoda,,Thiaridae,gastropod,612
+oasis juga,Juga laurae,,Juga,laurae,2301987,Mollusca,Gastropoda,,Pleuroceridae,gastropod,522
+smooth juga,Juga interioris,,Juga,interioris,2301992,Mollusca,Gastropoda,,Pleuroceridae,gastropod,521
+cave obligate amphipod,Stygobromus lacicolus,,Stygobromus,lacicolus,2217885,Arthropoda,Malacostraca,Amphipoda,Crangonyctidae,crustacean,1107
+amphipod,Hyalella azteca,,Hyalella,azteca,2217674,Arthropoda,Malacostraca,Amphipoda,Hyalellidae,crustacean,502
+Herbsts amphipod,Stygobromus herbsti,,Stygobromus,herbsti,2217925,Arthropoda,Malacostraca,Amphipoda,Crangonyctidae,crustacean,1106
+Lake Tahoe amphipod,Stygobromus tahoensis,,Stygobromus,tahoensis,2217914,Arthropoda,Malacostraca,Amphipoda,Crangonyctidae,crustacean,1109
+Myers amphipod,Stygobromus myersae,,Stygobromus,myersae,2217930,Arthropoda,Malacostraca,Amphipoda,Crangonyctidae,crustacean,1108
+scud (freshwater shrimp),Hyalella sp.,,Hyalella,sp.,2217673,Arthropoda,Malacostraca,Amphipoda,Hyalellidae,crustacean,503
+crayfish,Pacifastacus gambelii,,Pacifastacus,gambelii,2226988,Arthropoda,Malacostraca,Decapoda,Astacidae,crustacean,742
+crayfish (unknown),Pacifastacus sp.,,Pacifastacus,sp.,2226987,Arthropoda,Malacostraca,Decapoda,Astacidae,crustacean,744
+crayfish (unknown),Procambarus sp.,,Procambarus,sp.,2227127,Arthropoda,Malacostraca,Decapoda,Cambaridae,crustacean,869
+red swamp crayfish,Procambarus clarkii,,Procambarus,clarkii,2227300,Arthropoda,Malacostraca,Decapoda,Cambaridae,crustacean,868
+signal crayfish,Pacifastacus leniusculus,,Pacifastacus,leniusculus,2226990,Arthropoda,Malacostraca,Decapoda,Astacidae,crustacean,743
+Snake River pilose crayfish,Pacifastacus connectens,,Pacifastacus,connectens,2226997,Arthropoda,Malacostraca,Decapoda,Astacidae,crustacean,1282
+American bison,Bos bison,,Bos,bison,2441178,Chordata,Mammalia,Artiodactyla,Bovidae,ungulate,95
+collared peccary,Pecari tajacu,,Pecari,tajacu,2440995,Chordata,Mammalia,Artiodactyla,Tayassuidae,ungulate,758
+elk,Cervus canadensis,,Cervus,canadensis,8930122,Chordata,Mammalia,Artiodactyla,Cervidae,ungulate,207
+moose,Alces alces,,Alces,alces,2440940,Chordata,Mammalia,Artiodactyla,Cervidae,ungulate,17
+mountain goat,Oreamnos americanus,,Oreamnos,americanus,2441151,Chordata,Mammalia,Artiodactyla,Bovidae,ungulate,718
+mule deer,Odocoileus hemionus,,Odocoileus,hemionus,2440974,Chordata,Mammalia,Artiodactyla,Cervidae,ungulate,699
+pronghorn antelope,Antilocapra americana,,Antilocapra,americana,2440902,Chordata,Mammalia,Artiodactyla,Antilocapridae,ungulate,51
+wild boar (razorback),Sus scrofa,,Sus,scrofa,7705930,Chordata,Mammalia,Artiodactyla,Suidae,ungulate,1264
+domestic goat,Capra aegagrus,,Capra,aegagrus,4409366,Chordata,Mammalia,Artiodactyla,Bovidae,ungulate,1293
+domestic sheep,Ovis aries,,Ovis,aries,2441110,Chordata,Mammalia,Artiodactyla,Bovidae,ungulate,1294
+domestic cow,Bos primigenius,,Bos,primigenius,2441024,Chordata,Mammalia,Artiodactyla,Bovidae,ungulate,1296
+desert bighorn sheep,Ovis canadensis nelsoni,,Ovis,canadensis,4262556,Chordata,Mammalia,Artiodactyla,Bovidae,ungulate,736
+California bighorn sheep,Ovis canadensis californiana,,Ovis,canadensis,4262555,Chordata,Mammalia,Artiodactyla,Bovidae,ungulate,734
+Rocky Mountain bighorn sheep,Ovis canadensis canadensis,,Ovis,canadensis,4262538,Chordata,Mammalia,Artiodactyla,Bovidae,ungulate,735
+American black bear,Ursus americanus,,Ursus,americanus,2433407,Chordata,Mammalia,Carnivora,Ursidae,carnivore,1194
+bobcat,Lynx rufus,,Lynx,rufus,2435246,Chordata,Mammalia,Carnivora,Felidae,carnivore,596
+Canada lynx,Lynx canadensis,,Lynx,canadensis,2435263,Chordata,Mammalia,Carnivora,Felidae,carnivore,595
+coyote,Canis latrans,,Canis,latrans,5219153,Chordata,Mammalia,Carnivora,Canidae,carnivore,161
+gray fox,Urocyon cinereoargenteus,,Urocyon,cinereoargenteus,2434566,Chordata,Mammalia,Carnivora,Canidae,carnivore,1189
+gray wolf,Canis lupus,,Canis,lupus,5219173,Chordata,Mammalia,Carnivora,Canidae,carnivore,162
+mountain lion,Puma concolor,,Puma,concolor,2435099,Chordata,Mammalia,Carnivora,Felidae,carnivore,411
+red fox,Vulpes vulpes,,Vulpes,vulpes,5219234,Chordata,Mammalia,Carnivora,Canidae,carnivore,1232
+domestic cat,Felis catus,,Felis,catus,2435022,Chordata,Mammalia,Carnivora,Felidae,carnivore,1295
+kit fox,Vulpes macrotis,,Vulpes,macrotis,5219311,Chordata,Mammalia,Carnivora,Canidae,carnivore,1231
+Sierra Nevada red fox,Vulpes vulpes necator,,Vulpes,vulpes,6164287,Chordata,Mammalia,Carnivora,Canidae,carnivore,1233
+Arizona myotis,Myotis lucifugus occultus,,Myotis,lucifugus,8781890,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,663
+free-tailed bat (unknown),Tadarida sp.,,Tadarida,sp.,2433008,Chordata,Mammalia,Chiroptera,Molossidae,bat,1123
+hairy-winged bat,Harpiocephalus harpia,,Harpiocephalus,harpia,2432380,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,488
+Mexican long-tongued bat,Choeronycteris mexicana,,Choeronycteris,mexicana,2433207,Chordata,Mammalia,Chiroptera,Phyllostomidae,bat,233
+myotis (unknown),Myotis sp.,,Myotis,sp.,2432384,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,664
+pale lump-nosed bat,Corynorhinus townsendii pallescens,,Corynorhinus,townsendii,6163672,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,272
+Rafinesques big-eared bat,Corynorhinus rafinesquii,,Corynorhinus,rafinesquii,2432491,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,270
+long-eared myotis,Myotis evotis,,Myotis,evotis,2432413,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,661
+fringed myotis,Myotis thysanodes,,Myotis,thysanodes,2432399,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,665
+little brown myotis,Myotis lucifugus,,Myotis,lucifugus,2432406,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,662
+big brown bat,Eptesicus fuscus,,Eptesicus,fuscus,2432352,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,390
+California leaf-nosed bat,Macrotus californicus,,Macrotus,californicus,2433296,Chordata,Mammalia,Chiroptera,Phyllostomidae,bat,597
+Yuma myotis,Myotis yumanensis,,Myotis,yumanensis,2432461,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,668
+Allens big-eared bat,Idionycteris phyllotis,,Idionycteris,phyllotis,2432525,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,518
+pallid bat,Antrozous pallidus,,Antrozous,pallidus,2432339,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,52
+hoary bat,Lasiurus cinereus,,Lasiurus,cinereus,5218544,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,555
+big free-tailed bat,Nyctinomops macrotis,,Nyctinomops,macrotis,2433062,Chordata,Mammalia,Chiroptera,Molossidae,bat,696
+long-legged myotis,Myotis volans,,Myotis,volans,2432411,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,667
+Brazilian (Mexican) free-tailed bat,Tadarida brasiliensis,,Tadarida,brasiliensis,2433011,Chordata,Mammalia,Chiroptera,Molossidae,bat,1122
+western red bat,Lasiurus blossevillii,,Lasiurus,blossevillii,5218548,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,554
+Townsends big-eared bat,Corynorhinus townsendii,,Corynorhinus,townsendii,2432479,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,271
+western small-footed myotis,Myotis ciliolabrum,,Myotis,ciliolabrum,2432456,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,660
+western yellow bat,Lasiurus xanthinus,,Lasiurus,xanthinus,5218541,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,556
+western pipistrelle,Parastrellus hesperus,,Parastrellus,hesperus,8397398,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,819
+cave myotis,Myotis velifer,,Myotis,velifer,2432386,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,666
+western mastiff bat,Eumops perotis,,Eumops,perotis,2432993,Chordata,Mammalia,Chiroptera,Molossidae,bat,401
+California myotis,Myotis californicus,,Myotis,californicus,2432425,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,659
+silver-haired bat,Lasionycteris noctivagans,,Lasionycteris,noctivagans,2432341,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,553
+spotted bat,Euderma maculatum,,Euderma,maculatum,2432579,Chordata,Mammalia,Chiroptera,Vespertilionidae,bat,399
+black-tailed jackrabbit,Lepus californicus,,Lepus,californicus,2436801,Chordata,Mammalia,Lagomorpha,Leporidae,lagomorph,579
+cottontail (unknown),Sylvilagus sp.,,Sylvilagus,sp.,2436839,Chordata,Mammalia,Lagomorpha,Leporidae,lagomorph,1117
+desert cottontail,Sylvilagus audubonii,,Sylvilagus,audubonii,2436910,Chordata,Mammalia,Lagomorpha,Leporidae,lagomorph,1115
+European rabbit,Oryctolagus cuniculus,,Oryctolagus,cuniculus,2436940,Chordata,Mammalia,Lagomorpha,Leporidae,lagomorph,732
+mountain cottontail,Sylvilagus nuttallii,,Sylvilagus,nuttallii,2436854,Chordata,Mammalia,Lagomorpha,Leporidae,lagomorph,1116
+snowshoe hare,Lepus americanus,,Lepus,americanus,2436794,Chordata,Mammalia,Lagomorpha,Leporidae,lagomorph,577
+white-tailed jackrabbit,Lepus townsendii,,Lepus,townsendii,2436705,Chordata,Mammalia,Lagomorpha,Leporidae,lagomorph,580
+jackrabbit (unknown),Lepus sp.,,Lepus,sp.,2436691,Chordata,Mammalia,Lagomorpha,Leporidae,lagomorph,1299
+American pika,Ochotona princeps,,Ochotona,princeps,2436982,Chordata,Mammalia,Lagomorpha,Ochotonidae,lagomorph,698
+pygmy rabbit,Brachylagus idahoensis,,Brachylagus,idahoensis,2436688,Chordata,Mammalia,Lagomorpha,Leporidae,lagomorph,97
+Sierra Nevada snowshoe hare,Lepus americanus tahoensis,,Lepus,americanus,8735370,Chordata,Mammalia,Lagomorpha,Leporidae,lagomorph,578
+ass,Equus asinus,,Equus,asinus,2440891,Chordata,Mammalia,Perissodactyla,Equidae,ungulate,391
+horse,Equus caballus,,Equus,caballus,2440886,Chordata,Mammalia,Perissodactyla,Equidae,ungulate,392
+American beaver,Castor canadensis,,Castor,canadensis,2439838,Chordata,Mammalia,Rodentia,Castoridae,rodent,180
+Arizona cotton rat,Sigmodon arizonae,,Sigmodon,arizonae,2438148,Chordata,Mammalia,Rodentia,Cricetidae,rodent,1039
+Arizona woodrat,Neotoma devia,,Neotoma,devia,2438449,Chordata,Mammalia,Rodentia,Cricetidae,rodent,683
+Beldings ground squirrel,Spermophilus beldingi,,Spermophilus,beldingi,2437317,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1060
+big jumping mouse,Zapus princeps oregonus,,Zapus,princeps,8735479,Chordata,Mammalia,Rodentia,Dipodidae,rodent,1244
+Bottas pocket gopher,Thomomys bottae,,Thomomys,bottae,2439385,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1141
+brown (Norway )rat,Rattus norvegicus,,Rattus,norvegicus,2439261,Chordata,Mammalia,Rodentia,Muridae,rodent,971
+bushy-tailed woodrat,Neotoma cinerea,,Neotoma,cinerea,2438437,Chordata,Mammalia,Rodentia,Cricetidae,rodent,682
+cactus deermouse,Peromyscus eremicus,,Peromyscus,eremicus,2437981,Chordata,Mammalia,Rodentia,Cricetidae,rodent,772
+California ground squirrel,Spermophilus beecheyi,,Spermophilus,beecheyi,2437293,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1059
+California kangaroo rat,Dipodomys californicus,,Dipodomys,californicus,2439546,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,345
+canyon deermouse,Peromyscus crinitus,,Peromyscus,crinitus,2438021,Chordata,Mammalia,Rodentia,Cricetidae,rodent,771
+chipmunk (unknown),Neotamias sp.,,Neotamias,sp.,4828027,Chordata,Mammalia,Rodentia,Sciuridae,rodent,677
+chisel-toothed kangaroo rat,Dipodomys microps,,Dipodomys,microps,2439510,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,348
+cliff chipmunk,Neotamias dorsalis,,Neotamias,dorsalis,4972385,Chordata,Mammalia,Rodentia,Sciuridae,rodent,671
+Colorado River cotton rat,Sigmodon arizonae plenus,,Sigmodon,arizonae,6163540,Chordata,Mammalia,Rodentia,Cricetidae,rodent,1040
+common muskrat,Ondatra zibethicus,,Ondatra,zibethicus,5219858,Chordata,Mammalia,Rodentia,Cricetidae,rodent,710
+coypu,Myocastor coypus,,Myocastor,coypus,4264680,Chordata,Mammalia,Rodentia,Myocastoridae,rodent,658
+dark kangaroo mouse,Microdipodops megacephalus,,Microdipodops,megacephalus,2439502,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,622
+deermouse,Peromyscus crinerea,,Peromyscus,crinerea,2437961,Chordata,Mammalia,Rodentia,Cricetidae,rodent,770
+deermouse (unknown),Peromyscus sp.,,Peromyscus,sp.,2437961,Chordata,Mammalia,Rodentia,Cricetidae,rodent,774
+desert woodrat,Neotoma lepida,,Neotoma,lepida,2438438,Chordata,Mammalia,Rodentia,Cricetidae,rodent,685
+dusky-footed woodrat,Neotoma fuscipes,,Neotoma,fuscipes,2438455,Chordata,Mammalia,Rodentia,Cricetidae,rodent,684
+golden-mantled ground squirrel,Spermophilus lateralis,,Spermophilus,lateralis,2437297,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1063
+grasshopper mouse (unknown),Onychomys sp.,,Onychomys,sp.,2438514,Chordata,Mammalia,Rodentia,Cricetidae,rodent,712
+Great Basin pocket mouse,Perognathus parvus,,Perognathus,parvus,2439554,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,767
+ground squirrel (unknown),Spermophilus sp.,,Spermophilus,sp.,2437289,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1066
+hoary marmot,Marmota caligata,,Marmota,caligata,2437378,Chordata,Mammalia,Rodentia,Sciuridae,rodent,599
+house mouse,Mus musculus,,Mus,musculus,7429082,Chordata,Mammalia,Rodentia,Muridae,rodent,646
+kangaroo mouse (unknown),Microdipodops sp.,,Microdipodops,sp.,2439500,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,626
+kangaroo rat (unknown),Dipodomys sp.,,Dipodomys,sp.,2439509,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,351
+least chipmunk,Neotamias minimus,,Neotamias,minimus,4828027,Chordata,Mammalia,Rodentia,Sciuridae,rodent,672
+little pocket mouse,Perognathus longimembris,,Perognathus,longimembris,2439563,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,766
+lodgepole chipmunk,Neotamias speciosus,,Neotamias,speciosus,4972383,Chordata,Mammalia,Rodentia,Sciuridae,rodent,678
+long-eared chipmunk,Neotamias quadrimaculatus,,Neotamias,quadrimaculatus,4972373,Chordata,Mammalia,Rodentia,Sciuridae,rodent,675
+long-tailed pocket mouse,Chaetodipus formosus,,Chaetodipus,formosus,2439596,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,210
+long-tailed pocket mouse,Perognathus formosus,,Perognathus,formosus,2439597,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,765
+long-tailed vole,Microtus longicaudus,,Microtus,longicaudus,2438621,Chordata,Mammalia,Rodentia,Cricetidae,rodent,631
+marmot (unknown),Marmota sp.,,Marmota,sp.,2437364,Chordata,Mammalia,Rodentia,Sciuridae,rodent,601
+meadow jumping mouse,Zapus hudsonius,,Zapus,hudsonius,2439467,Chordata,Mammalia,Rodentia,Dipodidae,rodent,1242
+Merriams ground squirrel,Spermophilus canus,,Spermophilus,canus,2437324,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1061
+Merriams kangaroo rat,Dipodomys merriami,,Dipodomys,merriami,2439521,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,347
+montane vole,Microtus montanus,,Microtus,montanus,2438609,Chordata,Mammalia,Rodentia,Cricetidae,rodent,632
+North American deermouse,Peromyscus maniculatus,,Peromyscus,maniculatus,2437967,Chordata,Mammalia,Rodentia,Cricetidae,rodent,773
+North American porcupine,Erethizon dorsatum,,Erethizon,dorsatum,6066824,Chordata,Mammalia,Rodentia,Erethizontidae,rodent,396
+northern grasshopper mouse,Onychomys leucogaster,,Onychomys,leucogaster,2438517,Chordata,Mammalia,Rodentia,Cricetidae,rodent,711
+northern pocket gopher,Thomomys talpoides,,Thomomys,talpoides,2439383,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1147
+Ords kangaroo rat,Dipodomys ordii,,Dipodomys,ordii,2439541,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,349
+Panamint chipmunk,Neotamias panamintinus,,Neotamias,panamintinus,4972387,Chordata,Mammalia,Rodentia,Sciuridae,rodent,674
+Panamint kangaroo rat,Dipodomys panamintinus,,Dipodomys,panamintinus,2439513,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,350
+pinyon deermouse,Peromyscus truei,,Peromyscus,truei,2437985,Chordata,Mammalia,Rodentia,Cricetidae,rodent,775
+Piute ground squirrel,Spermophilus mollis,,Spermophilus,mollis,2437328,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1064
+plains harvest mouse,Reithrodontomys montanus,,Reithrodontomys,montanus,2437866,Chordata,Mammalia,Rodentia,Cricetidae,rodent,977
+pocket gopher (unknown),Thomomys sp.,,Thomomys,sp.,2439381,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1146
+pocket mouse (unknown),Chaetodipus sp.,,Chaetodipus,sp.,2439576,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,213
+pocket mouse (unknown),Perognathus sp.,,Perognathus,sp.,2439552,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,768
+Richardsons ground squirrel,Spermophilus richardsonii nevadensis,,Spermophilus,richardsonii,2437299,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1065
+rock squirrel,Spermophilus variegatus,,Spermophilus,variegatus,2437329,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1069
+roof rat,Rattus rattus,,Rattus,rattus,2439270,Chordata,Mammalia,Rodentia,Muridae,rodent,972
+round-tailed ground squirrel,Spermophilus tereticaudus,,Spermophilus,tereticaudus,2437325,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1067
+southern grasshopper mouse,Onychomys torridus,,Onychomys,torridus,2438516,Chordata,Mammalia,Rodentia,Cricetidae,rodent,713
+southern pocket gopher,Thomomys umbrinus,,Thomomys,umbrinus,2439382,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1149
+Townsends ground squirrel,Spermophilus townsendii,,Spermophilus,townsendii,2437313,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1068
+Townsends pocket gopher,Thomomys townsendii,,Thomomys,townsendii,2439388,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1148
+Uinta chipmunk,Neotamias umbrinus,,Neotamias,umbrinus,4972376,Chordata,Mammalia,Rodentia,Sciuridae,rodent,679
+Fish Lake Valley pocket gopher,Thomomys bottae lacrymalis,,Thomomys,bottae,4264378,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1144
+vole (unknown),Microtus sp.,,Microtus,sp.,2438591,Chordata,Mammalia,Rodentia,Cricetidae,rodent,635
+western gray squirrel,Sciurus griseus,,Sciurus,griseus,5219672,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1028
+western harvest mouse,Reithrodontomys megalotis,,Reithrodontomys,megalotis,2437874,Chordata,Mammalia,Rodentia,Cricetidae,rodent,976
+white-tailed antelope squirrel,Ammospermophilus leucurus,,Ammospermophilus,leucurus,2437570,Chordata,Mammalia,Rodentia,Sciuridae,rodent,28
+white-tailed prairie dog,Cynomys leucurus,,Cynomys,leucurus,2437233,Chordata,Mammalia,Rodentia,Sciuridae,rodent,308
+white-throated woodrat,Neotoma albigula,,Neotoma,albigula,2438454,Chordata,Mammalia,Rodentia,Cricetidae,rodent,681
+woodrat (unknown),Neotoma sp.,,Neotoma,sp.,2438433,Chordata,Mammalia,Rodentia,Cricetidae,rodent,686
+Wyoming ground squirrel,Spermophilus elegans,,Spermophilus,elegans,2437319,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1062
+yellow-bellied marmot,Marmota flaviventris,,Marmota,flaviventris,2437369,Chordata,Mammalia,Rodentia,Sciuridae,rodent,600
+yellow-pine chipmunk,Neotamias amoenus,,Neotamias,amoenus,4972377,Chordata,Mammalia,Rodentia,Sciuridae,rodent,669
+Hidden Forest cliff chipmunk,Neotamias dorsalis grinnelli,,Neotamias,dorsalis,4972385,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1272
+Mexican vole,Microtus mexicanus,,Microtus,mexicanus,2438651,Chordata,Mammalia,Rodentia,Cricetidae,rodent,1277
+Chihuahuan grasshopper mouse,Onychormys arenicola,,Onychormys,arenicola,2438515,Chordata,Mammalia,Rodentia,Cricetidae,rodent,1279
+rat (unknown),Rattus sp.,,Rattus,sp.,2439223,Chordata,Mammalia,Rodentia,Muridae,rodent,1281
+Yosemite meadow mouse,Microtus montanus yosemite,,Microtus,montanus,9058533,Chordata,Mammalia,Rodentia,Cricetidae,rodent,1284
+Smokey Valley pocket gopher,Thomomys bottae fumosus,,Thomomys,bottae,4264357,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1285
+Virgin River Valley pocket gopher,Thomomys bottae virgineus,,Thomomys,bottae,8974378,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1290
+Pacific jumping mouse,Zapus trinotatus,,Zapus,trinotatus,2439471,Chordata,Mammalia,Rodentia,Dipodidae,rodent,1267
+mountain pocket gopher,Thomomys monticola,,Thomomys,monticola,2439386,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1145
+spiny pocket mouse,Chaetodipus spinatus,,Chaetodipus,spinatus,2439586,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,214
+desert kangaroo rat,Dipodomys deserti,,Dipodomys,deserti,2439535,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,346
+desert pocket mouse,Chaetodipus penicillatus,,Chaetodipus,penicillatus,2439591,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,211
+northern flying squirrel,Glaucomys sabrinus,,Glaucomys,sabrinus,2437331,Chordata,Mammalia,Rodentia,Sciuridae,rodent,471
+Pahranagat Valley montane vole,Microtus montanus fucosus,,Microtus,montanus,8908199,Chordata,Mammalia,Rodentia,Cricetidae,rodent,633
+Humboldt yellow-pine chipmunk,Neotamias amoenus celeris,,Neotamias,amoenus,4972377,Chordata,Mammalia,Rodentia,Sciuridae,rodent,670
+Ash Meadows montane vole,Microtus montanus nevadensis,,Microtus,montanus,9215386,Chordata,Mammalia,Rodentia,Cricetidae,rodent,634
+Sierra Nevada mountain beaver,Aplodontia rufa californica,,Aplodontia,rufa,6163524,Chordata,Mammalia,Rodentia,Aplodontiidae,rodent,59
+sagebrush vole,Lemmiscus curtatus,,Lemmiscus,curtatus,2438225,Chordata,Mammalia,Rodentia,Cricetidae,rodent,558
+Fletcher dark kangaroo mouse,Microdipodops megacephalus nasutus,,Microdipodops,megacephalus,4263163,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,624
+Allens (shadow) chipmunk,Neotamias senex,,Neotamias,senex,4972382,Chordata,Mammalia,Rodentia,Sciuridae,rodent,676
+Fish Spring pocket gopher,Thomomys bottae abstrusus,,Thomomys,bottae,4264464,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1142
+Douglass squirrel,Tamiasciurus douglasii,,Tamiasciurus,douglasii,2437281,Chordata,Mammalia,Rodentia,Sciuridae,rodent,1126
+western jumping mouse,Zapus princeps,,Zapus,princeps,2439473,Chordata,Mammalia,Rodentia,Dipodidae,rodent,1243
+Hidden Forest Uinta chipmunk,Neotamias umbrinus nevadensis,,Neotamias,umbrinus,4972376,Chordata,Mammalia,Rodentia,Sciuridae,rodent,680
+San Antonio pocket gopher,Thomomys bottae curtatus,,Thomomys,bottae,4264456,Chordata,Mammalia,Rodentia,Geomyidae,rodent,1143
+pale kangaroo mouse,Microdipodops pallidus,,Microdipodops,pallidus,2439501,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,625
+Palmers chipmunk,Neotamias palmeri,,Neotamias,palmeri,4828027,Chordata,Mammalia,Rodentia,Sciuridae,rodent,673
+Desert Valley kangaroo mouse,Microdipodops megacephalus albiventer,,Microdipodops,megacephalus,4263161,Chordata,Mammalia,Rodentia,Heteromyidae,rodent,623
+brush mouse,Peromyscus boylii rowleyi,,Peromyscus,boylii,8758470,Chordata,Mammalia,Rodentia,Cricetidae,rodent,769
+broad-footed mole,Scapanus latimanus,,Scapanus,latimanus,2436194,Chordata,Mammalia,Soricomorpha,Talpidae,shrewform,1018
+cinereus shrew,Sorex cinereus,,Sorex,cinereus,2435964,Chordata,Mammalia,Soricomorpha,Soricidae,shrewform,1049
+dusky shrew,Sorex monticolus,,Sorex,monticolus,2436019,Chordata,Mammalia,Soricomorpha,Soricidae,shrewform,1051
+shrew (unknown),Sorex sp.,,Sorex,sp.,2435935,Chordata,Mammalia,Soricomorpha,Soricidae,shrewform,1054
+vagrant shrew,Sorex vagrans,,Sorex,vagrans,2436042,Chordata,Mammalia,Soricomorpha,Soricidae,shrewform,1057
+Inyo shrew,Sorex tenellus,,Sorex,tenellus,2435993,Chordata,Mammalia,Soricomorpha,Soricidae,shrewform,1055
+Prebles shrew,Sorex preblei,,Sorex,preblei,2435996,Chordata,Mammalia,Soricomorpha,Soricidae,shrewform,1053
+Crawfords desert shrew,Notiosorex crawfordi,,Notiosorex,crawfordi,2435812,Chordata,Mammalia,Soricomorpha,Soricidae,shrewform,689
+American water shrew,Sorex palustris,,Sorex,palustris,2436006,Chordata,Mammalia,Soricomorpha,Soricidae,shrewform,1052
+Merriams shrew,Sorex merriami,,Sorex,merriami,2435989,Chordata,Mammalia,Soricomorpha,Soricidae,shrewform,1050
+Trowbridges shrew,Sorex trowbridgii,,Sorex,trowbridgii,2435936,Chordata,Mammalia,Soricomorpha,Soricidae,shrewform,1056
+ostracod,Candona tahoensis,,Candona,tahoensis,4987774,Arthropoda,Ostracoda,Podocopida,Candonidae,crustacean,160
+bullsnake,Pituophis catenifer sayi,,Pituophis,catenifer,6162132,Chordata,Reptilia,Squamata,Colubridae,snake,829
+common kingsnake,Lampropeltis getula californiae,,Lampropeltis,getula,5224481,Chordata,Reptilia,Squamata,Colubridae,snake,532
+California mountain kingsnake,Lampropeltis zonata,,Lampropeltis,zonata,5224449,Chordata,Reptilia,Squamata,Colubridae,snake,535
+Clark spiny lizard,Sceloporus clarkii,,Sceloporus,clarkii,2451192,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1019
+coachwhip,Coluber flagellum,,Coluber,flagellum,4287637,Chordata,Reptilia,Squamata,Colubridae,snake,255
+coachwhip/racer/whipsnake (unknown),Masticophis sp.,,Masticophis,sp.,2452132,Chordata,Reptilia,Squamata,Colubridae,snake,603
+Colorado River tree lizard,Urosaurus ornatus symmetricus,,Urosaurus,ornatus,6159884,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1193
+common gartersnake,Thamnophis sirtalis,,Thamnophis,sirtalis,2457522,Chordata,Reptilia,Squamata,Colubridae,snake,1138
+common sagebrush lizard,Sceloporus graciosus,,Sceloporus,graciosus,2451223,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1020
+common side-blotched lizard,Uta stansburiana,,Uta,stansburiana,2451029,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1197
+desert banded gecko,Coleonyx variegatus variegatus,,Coleonyx,variegatus,7061954,Chordata,Reptilia,Squamata,Eublepharidae,lizard,252
+desert glossy snake,Arizona elegans eburnata,,Arizona,elegans,5223743,Chordata,Reptilia,Squamata,Colubridae,snake,68
+desert horned lizard,Phrynosoma platyrhinos,,Phrynosoma,platyrhinos,5222442,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,791
+desert night lizard,Xantusia vigilis,,Xantusia,vigilis,2451726,Chordata,Reptilia,Squamata,Xantusiidae,lizard,1239
+desert spiny lizard,Sceloporus magister,,Sceloporus,magister,2451393,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1022
+desert striped whipsnake,Coluber taeniatus taeniatus,,Coluber,taeniatus,8908253,Chordata,Reptilia,Squamata,Colubridae,snake,258
+Dumerils boa constrictor,Boa dumerili,,Boa,dumerili,2465138,Chordata,Reptilia,Squamata,Boidae,snake,91
+eastern collared lizard,Crotaphytus collaris,,Crotaphytus,collaris,9098006,Chordata,Reptilia,Squamata,Crotaphytidae,lizard,301
+eastern fence lizard,Sceloporus undulatus,,Sceloporus,undulatus,2451143,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1026
+eastern wormsnake,Carphophis amoenus,,Carphophis,amoenus,2457092,Chordata,Reptilia,Squamata,Colubridae,snake,175
+gartersnake (unknown),Thamnophis sp.,,Thamnophis,sp.,2457825,Chordata,Reptilia,Squamata,Colubridae,snake,1140
+Gilberts skink,Plestiodon gilberti,,Plestiodon,gilberti,5789627,Chordata,Reptilia,Squamata,Scincidae,lizard,839
+glossy snake,Arizona elegans,,Arizona,elegans,5223735,Chordata,Reptilia,Squamata,Colubridae,snake,66
+gophersnake,Pituophis catenifer,,Pituophis,catenifer,2453826,Chordata,Reptilia,Squamata,Colubridae,snake,827
+Great Basin collared lizard,Crotaphytus bicinctores,,Crotaphytus,bicinctores,2470618,Chordata,Reptilia,Squamata,Crotaphytidae,lizard,300
+Great Basin fence lizard,Sceloporus occidentalis longipes,,Sceloporus,occidentalis,6159807,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1024
+Great Basin gophersnake,Pituophis catenifer deserticola,,Pituophis,catenifer,6162142,Chordata,Reptilia,Squamata,Colubridae,snake,828
+Great Basin rattlesnake,Crotalus oreganus lutosus,,Crotalus,oreganus,6157433,Chordata,Reptilia,Squamata,Viperidae,snake,295
+Great Basin skink,Plestiodon skiltonianus utahensis,,Plestiodon,skiltonianus,8721941,Chordata,Reptilia,Squamata,Scincidae,lizard,843
+Great Basin whiptail,Aspidoscelis tigris tigris,,Aspidoscelis,tigris,6158623,Chordata,Reptilia,Squamata,Teiidae,lizard,74
+greater short-horned lizard,Phrynosoma hernandesi,,Phrynosoma,hernandesi,5222456,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,790
+long-nosed leopard lizard,Gambelia wislizenii,,Gambelia,wislizenii,8613410,Chordata,Reptilia,Squamata,Crotaphytidae,lizard,435
+long-nosed snake,Rhinocheilus lecontei,,Rhinocheilus,lecontei,2456330,Chordata,Reptilia,Squamata,Colubridae,snake,994
+Mediterranean gecko,Hemidactylus turcicus,,Hemidactylus,turcicus,5221528,Chordata,Reptilia,Squamata,Gekkonidae,lizard,497
+Mexican gartersnake,Thamnophis eques,,Thamnophis,eques,2457655,Chordata,Reptilia,Squamata,Colubridae,snake,1137
+Mojave Desert sidewinder,Crotalus cerastes cerastes,,Crotalus,cerastes,7190312,Chordata,Reptilia,Squamata,Viperidae,snake,291
+Mojave glossy snake,Arizona elegans candida,,Arizona,elegans,5223747,Chordata,Reptilia,Squamata,Colubridae,snake,67
+Mojave patch-nosed snake,Salvadora hexalepis mojavensis,,Salvadora,hexalepis,5224362,Chordata,Reptilia,Squamata,Colubridae,snake,1007
+Mojave rattlesnake,Crotalus scutulatus,,Crotalus,scutulatus,2444480,Chordata,Reptilia,Squamata,Viperidae,snake,296
+Mojave shovel-nosed snake,Chionactis occipitalis occipitalis,,Chionactis,occipitalis,7190574,Chordata,Reptilia,Squamata,Colubridae,snake,229
+mountain gartersnake,Thamnophis elegans elegans,,Thamnophis,elegans,7061660,Chordata,Reptilia,Squamata,Colubridae,snake,1135
+Nevada shovel-nosed snake,Chionactis occipitalis talpina,,Chionactis,occipitalis,6162176,Chordata,Reptilia,Squamata,Colubridae,snake,230
+Nevada side-blotched lizard,Uta stansburiana nevadensis,,Uta,stansburiana,6159928,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1198
+North American racer,Coluber constrictor,,Coluber,constrictor,6161776,Chordata,Reptilia,Squamata,Colubridae,snake,253
+northern desert nightsnake,Hypsiglena chlorophaea deserticola,,Hypsiglena,chlorophaea,8928183,Chordata,Reptilia,Squamata,Colubridae,snake,508
+northern alligator lizard,Elgaria coerulea,,Elgaria,coerulea,2468254,Chordata,Reptilia,Squamata,Anguidae,snake,369
+northern desert horned lizard,Phrynosoma platyrhinos platyrhinos,,Phrynosoma,platyrhinos,7061473,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,793
+northern Mojave rattlesnake,Crotalus scutulatus scutulatus,,Crotalus,scutulatus,7061886,Chordata,Reptilia,Squamata,Viperidae,snake,297
+northern sagebrush lizard,Sceloporus graciosus graciosus,,Sceloporus,graciosus,6159848,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1021
+northern zebra-tailed lizard,Callisaurus draconoides myurus,,Callisaurus,draconoides,6159934,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,155
+ornate tree lizard,Urosaurus ornatus,,Urosaurus,ornatus,8538855,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1192
+Panamint alligator lizard,Elgaria panamintina,,Elgaria,panamintina,2468282,Chordata,Reptilia,Squamata,Anguidae,snake,374
+Panamint rattlesnake,Crotalus stephensi,,Crotalus,stephensi,7916212,Chordata,Reptilia,Squamata,Viperidae,snake,299
+plateau fence lizard,Sceloporus tristichus,,Sceloporus,tristichus,4287358,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1025
+rattlesnake (unknown),Crotalus sp.,,Crotalus,sp.,2444354,Chordata,Reptilia,Squamata,Viperidae,snake,298
+red racer,Coluber flagellum piceus,,Coluber,flagellum,8724746,Chordata,Reptilia,Squamata,Colubridae,snake,256
+regal ring-necked snake,Diadophis punctatus regalis,,Diadophis,punctatus,6161401,Chordata,Reptilia,Squamata,Colubridae,snake,344
+San Diego alligator lizard,Elgaria multicarinata webbii,,Elgaria,multicarinata,6160608,Chordata,Reptilia,Squamata,Anguidae,snake,373
+Skiltons skink,Plestiodon skiltonianus skiltonianus,,Plestiodon,skiltonianus,8943208,Chordata,Reptilia,Squamata,Scincidae,lizard,842
+Smiths black-headed snake,Tantilla hobartsmithi,,Tantilla,hobartsmithi,2456394,Chordata,Reptilia,Squamata,Colubridae,snake,1127
+Sonoran lyre snake,Trimorphodon biscutatus lambda,,Trimorphodon,biscutatus,6161266,Chordata,Reptilia,Squamata,Colubridae,snake,1159
+Sonoran shovel-nosed snake,Chionactis palarostris,,Chionactis,palarostris,2457400,Chordata,Reptilia,Squamata,Colubridae,snake,231
+southern alligator lizard,Elgaria multicarinata,,Elgaria,multicarinata,2468262,Chordata,Reptilia,Squamata,Anguidae,snake,372
+southern desert horned lizard,Phrynosoma platyrhinos calidiarum,,Phrynosoma,platyrhinos,5222446,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,792
+southwestern speckled rattlesnake,Crotalus mitchellii pyrrhus,,Crotalus,mitchellii,2444387,Chordata,Reptilia,Squamata,Viperidae,snake,293
+speckled rattlesnake,Crotalus mitchellii,,Crotalus,mitchellii,2444383,Chordata,Reptilia,Squamata,Viperidae,snake,292
+spotted leaf-nosed snake,Phyllorhynchus decurtatus,,Phyllorhynchus,decurtatus,2452649,Chordata,Reptilia,Squamata,Colubridae,snake,794
+striped whipsnake,Coluber taeniatus,,Coluber,taeniatus,8404655,Chordata,Reptilia,Squamata,Colubridae,snake,257
+terrestrial gartersnake,Thamnophis elegans,,Thamnophis,elegans,2457545,Chordata,Reptilia,Squamata,Colubridae,snake,1134
+tiger whiptail,Aspidoscelis tigris,,Aspidoscelis,tigris,8913064,Chordata,Reptilia,Squamata,Teiidae,lizard,73
+Utah banded gecko,Coleonyx variegatus utahensis,,Coleonyx,variegatus,6157717,Chordata,Reptilia,Squamata,Eublepharidae,lizard,251
+Utah mountain kingsnake,Lampropeltis pyromelana infralabialis,,Lampropeltis,pyromelana,5224459,Chordata,Reptilia,Squamata,Colubridae,snake,534
+valley gartersnake,Thamnophis sirtalis fitchi,,Thamnophis,sirtalis,6161471,Chordata,Reptilia,Squamata,Colubridae,snake,1139
+variable groundsnake,Sonora semiannulata semiannulata,,Sonora,semiannulata,4287819,Chordata,Reptilia,Squamata,Colubridae,snake,1048
+wandering gartersnake,Thamnophis elegans vagrans,,Thamnophis,elegans,6161479,Chordata,Reptilia,Squamata,Colubridae,snake,1136
+western banded gecko,Coleonyx variegatus,,Coleonyx,variegatus,2447244,Chordata,Reptilia,Squamata,Eublepharidae,lizard,250
+western black-headed snake,Tantilla planiceps,,Tantilla,planiceps,2456418,Chordata,Reptilia,Squamata,Colubridae,snake,1128
+western diamond-backed rattlesnake,Crotalus atrox,,Crotalus,atrox,2444356,Chordata,Reptilia,Squamata,Viperidae,snake,289
+western fence lizard,Sceloporus occidentalis,,Sceloporus,occidentalis,2451234,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1023
+western glossy snake,Arizona occidentalis,,Arizona,occidentalis,7813748,Chordata,Reptilia,Squamata,Colubridae,snake,69
+western groundsnake,Sonora semiannulata,,Sonora,semiannulata,2453084,Chordata,Reptilia,Squamata,Colubridae,snake,1047
+western long-tailed brush lizard,Urosaurus graciosus graciosus,,Urosaurus,graciosus,7061470,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1191
+western lyre snake,Trimorphodon biscutatus,,Trimorphodon,biscutatus,2455922,Chordata,Reptilia,Squamata,Colubridae,snake,1158
+western patch-nosed snake,Salvadora hexalepis,,Salvadora,hexalepis,5224357,Chordata,Reptilia,Squamata,Colubridae,snake,1006
+western rattlesnake,Crotalus oreganus,,Crotalus,oreganus,2444446,Chordata,Reptilia,Squamata,Viperidae,snake,294
+western shovel-nosed snake,Chionactis occipitalis,,Chionactis,occipitalis,2457404,Chordata,Reptilia,Squamata,Colubridae,snake,228
+western skink,Plestiodon skiltonianus,,Plestiodon,skiltonianus,5960558,Chordata,Reptilia,Squamata,Scincidae,lizard,841
+western threadsnake,Leptotyphlops humilis,,Leptotyphlops,humilis,2448527,Chordata,Reptilia,Squamata,Leptotyphlopidae,lizard,575
+western yellow-bellied racer,Coluber constrictor mormon,,Coluber,constrictor,7492692,Chordata,Reptilia,Squamata,Colubridae,snake,254
+yellow-backed spiny lizard,Sceloporus uniformis,,Sceloporus,uniformis,8322819,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1027
+zebra-tailed lizard,Callisaurus draconoides,,Callisaurus,draconoides,2451459,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,154
+collard lizard (unknown),Crotaphytus sp.,,Crotaphytus,sp.,2470634,Chordata,Reptilia,Squamata,Crotaphytidae,lizard,1286
+horned lizard (unknown),Phrynosoma sp.,,Phrynosoma,sp.,2451046,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,1287
+northern rubber boa,Charina bottae,,Charina,bottae,5225695,Chordata,Reptilia,Squamata,Boidae,snake,221
+ring-necked snake,Diadophis punctatus,,Diadophis,punctatus,8763701,Chordata,Reptilia,Squamata,Colubridae,snake,343
+northern desert iguana,Dipsosaurus dorsalis dorsalis,,Dipsosaurus,dorsalis,7061486,Chordata,Reptilia,Squamata,Iguanidae,lizard,353
+western red-tailed skink,Plestiodon gilberti rubricaudatus,,Plestiodon,gilberti,8717244,Chordata,Reptilia,Squamata,Scincidae,lizard,840
+common chuckwalla,Sauromalus ater,,Sauromalus,ater,2459705,Chordata,Reptilia,Squamata,Iguanidae,lizard,1014
+pygmy short-horned lizard,Phrynosoma douglasii,,Phrynosoma,douglasii,5222469,Chordata,Reptilia,Squamata,Phrynosomatidae,lizard,789
+Sierra gartersnake,Thamnophis couchii,,Thamnophis,couchii,2457544,Chordata,Reptilia,Squamata,Colubridae,snake,1133
+Sierra alligator lizard,Elgaria coerulea palmeri,,Elgaria,coerulea,6160593,Chordata,Reptilia,Squamata,Anguidae,snake,370
+banded Gila monster,Heloderma suspectum cinctum,,Heloderma,suspectum,6159023,Chordata,Reptilia,Squamata,Helodermatidae,lizard,496
+Sonoran mountain kingsnake,Lampropeltis pyromelana,,Lampropeltis,pyromelana,9089978,Chordata,Reptilia,Squamata,Colubridae,snake,533
+Shasta alligator lizard,Elgaria coerulea shastensis,,Elgaria,coerulea,6160595,Chordata,Reptilia,Squamata,Anguidae,snake,371
+rosy boa,Lichanura trivirgata,,Lichanura,trivirgata,2465153,Chordata,Reptilia,Squamata,Boidae,snake,222
+eastern snapping turtle,Chelydra serpentina serpentina,,Chelydra,serpentina,2441905,Chordata,Reptilia,Testudines,Chelydridae,turtle,225
+mud turtle,Kinosternon sonoriense,,Kinosternon,sonoriense,2442413,Chordata,Reptilia,Testudines,Kinosternidae,turtle,529
+painted turtle,Chrysemys picta,,Chrysemys,picta,2443133,Chordata,Reptilia,Testudines,Emydidae,turtle,238
+redbelly turtle,Pseudemys rubriventris,,Pseudemys,rubriventris,9158437,Chordata,Reptilia,Testudines,Emydidae,turtle,878
+snapping turtle,Chelydra serpentina,,Chelydra,serpentina,2441905,Chordata,Reptilia,Testudines,Chelydridae,turtle,224
+Sonoran mud turtle,Kinosternon sonoriense sonoriense,,Kinosternon,sonoriense,7062186,Chordata,Reptilia,Testudines,Kinosternidae,turtle,530
+spiny softshell,Apalone spinifera,,Apalone,spinifera,2442680,Chordata,Reptilia,Testudines,Trionychidae,turtle,53
+Texas spiny softshell,Apalone spinifera emoryi,,Apalone,spinifera,6156734,Chordata,Reptilia,Testudines,Trionychidae,turtle,54
+western box turtle,Terrapene ornata,,Terrapene,ornata,2443168,Chordata,Reptilia,Testudines,Emydidae,turtle,1130
+western pond turtle,Actinemys marmorata,,Actinemys,marmorata,2442896,Chordata,Reptilia,Testudines,Emydidae,turtle,5
+western spiny softshell,Apalone spinifera hartwegi,,Apalone,spinifera,6156725,Chordata,Reptilia,Testudines,Trionychidae,turtle,55
+desert tortoise,Gopherus agassizii,,Gopherus,agassizii,2441814,Chordata,Reptilia,Testudines,Testudinidae,turtle,476
+American bittern,Botaurus lentiginosus,,Botaurus,lentiginosus,2480911,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,96
+black-crowned night-heron,Nycticorax nycticorax,,Nycticorax,nycticorax,2480863,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,695
+brown pelican,Pelecanus occidentalis,,Pelecanus,occidentalis,5229158,Chordata,Aves,Pelecaniformes,Pelecanidae,seabird,760
+cattle egret,Bubulcus ibis,,Bubulcus,ibis,2480830,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,107
+glossy ibis,Plegadis falcinellus,,Plegadis,falcinellus,2480773,Chordata,Aves,Pelecaniformes,Threskiornithidae,seabird,838
+great blue heron,Ardea herodias,,Ardea,herodias,2480935,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,64
+great egret,Ardea alba,,Ardea,alba,7913436,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,63
+green heron,Butorides virescens,,Butorides,virescens,2480819,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,132
+little blue heron,Egretta caerulea,,Egretta,caerulea,2480894,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,363
+reddish egret,Egretta rufescens,,Egretta,rufescens,2480888,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,364
+roseate spoonbill,Platalea ajaja,,Platalea,ajaja,2480803,Chordata,Aves,Pelecaniformes,Threskiornithidae,seabird,835
+snowy egret,Egretta thula,,Egretta,thula,2480873,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,365
+tricolored heron,Egretta tricolor,,Egretta,tricolor,2480881,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,366
+yellow-crowned night-heron,Nyctanassa violacea,,Nyctanassa,violacea,2480953,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,693
+western least bittern,Ixobrychus exilis hesperis,,Ixobrychus,exilis,6178091,Chordata,Aves,Pelecaniformes,Ardeidae,seabird,519
+American white pelican,Pelecanus erythrorhynchos,,Pelecanus,erythrorhynchos,5229155,Chordata,Aves,Pelecaniformes,Pelecanidae,seabird,759
+white-faced ibis,Plegadis chihi,,Plegadis,chihi,2480775,Chordata,Aves,Pelecaniformes,Threskiornithidae,seabird,837
+least storm-petrel,Oceanodroma microsoma,,Oceanodroma,microsoma,2481999,Chordata,Aves,Procellariiformes,Hydrobatidae,seabird,697
+blue-footed booby,Sula nebouxii,,Sula,nebouxii,2480978,Chordata,Aves,Suliformes,Sulidae,seabird,1113
+brown booby,Sula leucogaster,,Sula,leucogaster,2480975,Chordata,Aves,Suliformes,Sulidae,seabird,1112
+double-crested cormorant,Phalacrocorax auritus,,Phalacrocorax,auritus,2481875,Chordata,Aves,Suliformes,Phalacrocoracidae,seabird,778
+magnificent frigatebird,Fregata magnificens,,Fregata,magnificens,2480189,Chordata,Aves,Suliformes,Fregatidae,seabird,427
+neotropic cormorant,Phalacrocorax brasilianus,,Phalacrocorax,brasilianus,2481868,Chordata,Aves,Suliformes,Phalacrocoracidae,seabird,779
+American badger,Taxidea taxus,,Taxidea,taxus,2434102,Chordata,Mammalia,Carnivora,Mustelidae,musteloid,1129
+American mink,Neovison vison,,Neovison,vison,2433652,Chordata,Mammalia,Carnivora,Mustelidae,musteloid,687
+ermine,Mustela erminea,,Mustela,erminea,5219019,Chordata,Mammalia,Carnivora,Mustelidae,musteloid,648
+long-tailed weasel,Mustela frenata,,Mustela,frenata,5218919,Chordata,Mammalia,Carnivora,Mustelidae,musteloid,649
+North American river otter,Lontra canadensis,,Lontra,canadensis,2433727,Chordata,Mammalia,Carnivora,Mustelidae,musteloid,588
+raccoon,Procyon lotor,,Procyon,lotor,5218786,Chordata,Mammalia,Carnivora,Procyonidae,musteloid,870
+ringtail,Bassariscus astutus,,Bassariscus,astutus,2433557,Chordata,Mammalia,Carnivora,Procyonidae,musteloid,88
+striped skunk,Mephitis mephitis,,Mephitis,mephitis,5219380,Chordata,Mammalia,Carnivora,Mephitidae,musteloid,618
+weasel (unknown),Mustela sp.,,Mustela,sp.,2433922,Chordata,Mammalia,Carnivora,Mustelidae,musteloid,650
+western spotted skunk,Spilogale gracilis,,Spilogale,gracilis,2434835,Chordata,Mammalia,Carnivora,Mephitidae,musteloid,1076
+southwestern river otter,Lontra canadensis sonora,,Lontra,canadensis,6163978,Chordata,Mammalia,Carnivora,Mustelidae,musteloid,590
+wolverine,Gulo gulo,,Gulo,gulo,5219073,Chordata,Mammalia,Carnivora,Mustelidae,musteloid,481
+American marten,Martes americana,,Martes,americana,5218864,Chordata,Mammalia,Carnivora,Mustelidae,musteloid,602
+northern river otter,Lontra canadensis pacifica,,Lontra,canadensis,6163976,Chordata,Mammalia,Carnivora,Mustelidae,musteloid,589
+band-tailed pigeon,Patagioenas fasciata,,Patagioenas,fasciata,2495266,Chordata,Aves,Columbiformes,Columbidae,upland,756
+common ground-dove,Columbina passerina,,Columbina,passerina,2495869,Chordata,Aves,Columbiformes,Columbidae,upland,262
+Eurasian collared-dove,Streptopelia decaocto,,Streptopelia,decaocto,2495696,Chordata,Aves,Columbiformes,Columbidae,upland,1101
+Inca dove,Columbina inca,,Columbina,inca,2495863,Chordata,Aves,Columbiformes,Columbidae,upland,261
+mourning dove,Zenaida macroura,,Zenaida,macroura,2495347,Chordata,Aves,Columbiformes,Columbidae,upland,1246
+pigeon (unknown),Columba sp.,,Columba,sp.,2495404,Chordata,Aves,Columbiformes,Columbidae,upland,260
+rock dove,Columba livia,,Columba,livia,2495414,Chordata,Aves,Columbiformes,Columbidae,upland,259
+ruddy ground-dove,Columbina talpacoti,,Columbina,talpacoti,2495858,Chordata,Aves,Columbiformes,Columbidae,upland,263
+white-winged dove,Zenaida asiatica,,Zenaida,asiatica,2495370,Chordata,Aves,Columbiformes,Columbidae,upland,1245
+greater roadrunner,Geococcyx californianus,,Geococcyx,californianus,2496459,Chordata,Aves,Cuculiformes,Cuculidae,upland,443
+groove-billed ani,Crotophaga sulcirostris,,Crotophaga,sulcirostris,2496211,Chordata,Aves,Cuculiformes,Cuculidae,upland,302
+western yellow-billed cuckoo,Coccyzus americanus occidentalis,,Coccyzus,americanus,6170319,Chordata,Aves,Cuculiformes,Cuculidae,upland,246
+dusky grouse,Dendragapus obscurus,,Dendragapus,obscurus,2473588,Chordata,Aves,Galliformes,Phasianidae,upland,318
+California quail,Callipepla californica,,Callipepla,californica,5228080,Chordata,Aves,Galliformes,Odontophoridae,upland,151
+chukar,Alectoris chukar,,Alectoris,chukar,2474029,Chordata,Aves,Galliformes,Phasianidae,upland,18
+common peafowl,Pavo cristatus,,Pavo,cristatus,2473603,Chordata,Aves,Galliformes,Phasianidae,upland,757
+Gambels quail,Callipepla gambelii,,Callipepla,gambelii,5228072,Chordata,Aves,Galliformes,Odontophoridae,upland,152
+gray partridge,Perdix perdix,,Perdix,perdix,2473958,Chordata,Aves,Galliformes,Phasianidae,upland,763
+Himalayan snowcock,Tetraogallus himalayensis,,Tetraogallus,himalayensis,2473455,Chordata,Aves,Galliformes,Phasianidae,upland,1131
+ring-necked pheasant,Phasianus colchicus,,Phasianus,colchicus,2473744,Chordata,Aves,Galliformes,Phasianidae,upland,784
+ruffed grouse,Bonasa umbellus,,Bonasa,umbellus,2473702,Chordata,Aves,Galliformes,Phasianidae,upland,94
+scaled quail,Callipepla squamata,,Callipepla,squamata,5228075,Chordata,Aves,Galliformes,Odontophoridae,upland,153
+wild turkey,Meleagris gallopavo,,Meleagris,gallopavo,2473551,Chordata,Aves,Galliformes,Phasianidae,upland,614
+sooty grouse,Dendragapus fuliginosus,,Dendragapus,fuliginosus,7340146,Chordata,Aves,Galliformes,Phasianidae,upland,1269
+Columbian sharp-tailed grouse,Tympanuchus phasianellus columbianus,,Tympanuchus,phasianellus,6180028,Chordata,Aves,Galliformes,Phasianidae,upland,1181
+mountain quail,Oreortyx pictus,,Oreortyx,pictus,2474320,Chordata,Aves,Galliformes,Odontophoridae,upland,729
+greater sage-grouse,Centrocercus urophasianus,,Centrocercus,urophasianus,5959240,Chordata,Aves,Galliformes,Phasianidae,upland,205
