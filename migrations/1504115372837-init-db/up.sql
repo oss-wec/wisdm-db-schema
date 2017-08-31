@@ -118,6 +118,7 @@ CREATE TABLE events (
   qaqc_flag boolean DEFAULT false,
   enc_id_tmp integer,
   animal_id_temp integer,
+  comments text,
   created_at timestamp with time zone DEFAULT now(),
   updated_at timestamp with time zone DEFAULT now()
 );

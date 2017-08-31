@@ -1,0 +1,2 @@
+-- 1504126400244-view-animal-footer/check.sql
+-- optionally check your migration
