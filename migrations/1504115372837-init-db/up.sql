@@ -39,11 +39,11 @@ COMMENT ON TABLE users IS 'Human users of the database.';
 -- create projects table
 CREATE TABLE projects (
   id serial PRIMARY KEY,
-  parent_id integer REFERENCES projects(id),
-  type text,
+  parent_id integer REFERENCES projects(id),    -- sub project only
+  proj_type text,
   proj_name text,
+  proj_category text,     -- sub project only
   proj_desc text,
-  proj_loc text,
   proj_start date,
   proj_duration integer,
   time_frame text,
