@@ -46,6 +46,7 @@ CREATE TABLE projects (
   proj_loc text,
   proj_start date,
   proj_duration integer,
+  time_frame text,
   attributes jsonb,
   created_at timestamp with time zone DEFAULT now(),
   updated_at timestamp with time zone DEFAULT now()
