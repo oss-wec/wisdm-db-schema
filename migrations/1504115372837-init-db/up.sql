@@ -171,7 +171,7 @@ CREATE TABLE biometrics (
 
 CREATE TABLE injuries (
   id serial PRIMARY KEY,
-  element_id integer REFERENCES elements(id),
+  event_id integer REFERENCES events(id),
   injury_side text,
   injury_location text,
   injury_type text,
